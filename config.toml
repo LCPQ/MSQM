@@ -17,11 +17,11 @@ title = "WORKSHOP ON MODEL SYSTEMS IN QUANTUM MECHANICS (Toulouse, 11-12 Jan 202
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-#  name = "GDR NBODY"
+   name = "GDR NBODY"
    email = "gdrnbody@lct.jussieu.fr"
-#  github = "LCPQ"
+   github = "LCPQ"
    twitter = "GDR_NBODY"
-#   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
+   youtube = "https://www.youtube.com/@GDRNBODY/featured"
 
 [[menu.main]]
     name = "Home"
