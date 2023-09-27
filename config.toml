@@ -30,39 +30,29 @@ title = "MODEL SYSTEMS IN QUANTUM MECHANICS (11-12 Jan 2024, Toulouse)"
     weight = 1
 
 [[menu.main]]
-    name = "Registration"
-    url = "registration"
-    weight = 2
-
-[[menu.main]]
-    name = "Planning"
+    name = "Program"
     url = "planning"
-    weight = 3
+    weight = 2
 
  [[menu.main]]
      name="Presentations"
      url = "presentations"
-     weight = 4
-
- [[menu.main]]
-     name="Posters"
-     url = "posters"
-     weight = 5
+     weight = 3
 
 [[menu.main]]
     name = "Location"
     url = "map"
-    weight = 6
+    weight = 4
 
 [[menu.main]]
-    name = "Participants"
-    url = "participants"
-    weight = 7
+    name = "Registration"
+    url = "registration"
+    weight = 5
 
 [[menu.main]]
     name = "Sponsors"
     url = "sponsors"
-    weight = 8
+    weight = 6
 
 #[[menu.main]]
 #    parent="external"

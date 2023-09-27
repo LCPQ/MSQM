@@ -4,7 +4,8 @@ date: 2020-12-02 09:00
 draft: false
 ---
 
-# NEWS
+# News
+
 * **Sep 2023:** The MSQM 2024 website is up and running!
 
 # GDR NBODY
@@ -13,8 +14,24 @@ The [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody) - problème quantique à N
 
 <img width="400" style="vertical-align: middle;" src="/img/GDR_NBODY.png" />
 
-# THE MSQM WORKSHOP
+# The MSQM Workshop
 
 Model systems in quantum mechanics that are exactly or almost exactly solvable (such as 1D and lattice models) are important for the 
 understanding and development of computational methods. This workshop aims to describe some of these models used in quantum chemistry, condensed matter physics, and nuclear physics. The workshop will include both pedagogical talks and research talks.
+
+# Registration
+
+Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would to contribute (30min talks & posters are available). **There is no registration fee.**
+
+Due to budget limitations, the number of participants is limited to 40 (lunches and coffee breaks will be provided).
+Quick fingers first!
+
+# List of Participants
+
+1. Mi-Song Dupuy (LJLL, Paris, organiser) <!-- mi-song.dupuy@sorbonne-universite.fr -->
+1. Emmanuel Fromager (LCQ, Strasbourg, organiser) <!-- fromagere@unistra.fr -->
+1. Pierre-Francois Loos (LCPQ, Toulouse, organiser) <!-- loos@irsamc.ups-tlse.fr -->
+1. Eleonora Luppi (LPT, Paris, organiser) <!-- gedeone.leo@gmail.com -->
+1. Pina Romaniello (LPT, Toulouse, organiser) <!-- pina.romaniello@gmail.com -->
+1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
 
