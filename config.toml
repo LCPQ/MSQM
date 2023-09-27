@@ -22,7 +22,7 @@ title = "MODEL SYSTEMS IN QUANTUM MECHANICS (Toulouse, 11-12 Jan 2024)"
    email = "gdrnbody@lct.jussieu.fr"
    github = "LCPQ"
    twitter = "GDR_NBODY"
-   youtube = "https://www.youtube.com/@GDRNBODY/featured"
+   youtube = "@GDRNBODY/featured"
 
 [[menu.main]]
     name = "Home"
