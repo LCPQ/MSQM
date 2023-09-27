@@ -1,4 +1,5 @@
 baseURL = "http://localhost:1313/MSQM/"
+#baseURL = "https://lcpq.github.io/MSQM/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
