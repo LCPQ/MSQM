@@ -3,9 +3,9 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "WORKSHOP ON MODEL SYSTEMS IN QUANTUM MECHANICS (Toulouse, 11-12 Jan 2024)"
+title = "MODEL SYSTEMS IN QUANTUM MECHANICS (Toulouse, 11-12 Jan 2024)"
 [Params]
-  hometitle = "MODEL SYSTEMS IN QUANTUM MECHANICS"
+  hometitle = "WORKSHOP ON MODEL SYSTEMS IN QUANTUM MECHANICS"
   logo="img/CNRS.png"
 #  subtitle = ""
 [[Params.bigimg]]

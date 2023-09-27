@@ -6,6 +6,6 @@ draft: false
 
 # Conference registration
 
-Registration is **closed**. The deadline for submission was December, 1st 2021!
+Registration is **open**. The number of participants is limited to 40. Quick fingers first!
 
 

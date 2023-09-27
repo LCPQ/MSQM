@@ -6,7 +6,7 @@ draft: false
 
 # Location
 
-The conference ~~will~~ was supposed to be held in the amphithéâtre Laurent Schwartz on the campus of the Universite Paul Sabatier 
+The conference wil be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier 
 
 # Map
 
