@@ -35,3 +35,7 @@ Quick fingers first!
 1. Pina Romaniello (LPT, Toulouse, organiser) <!-- pina.romaniello@gmail.com -->
 1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
 
+# Location
+
+The conference wil be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
+
