@@ -7,10 +7,10 @@ theme = "beautifulhugo"
 title = "MODEL SYSTEMS IN QUANTUM MECHANICS (Toulouse, 11-12 Jan 2024)"
 [Params]
   hometitle = "WORKSHOP ON MODEL SYSTEMS IN QUANTUM MECHANICS"
-  logo="img/CNRS.png"
+  logo="img/sphericalcow.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/500px-Maths1.jpg"
+  src = "img/banner.png"
   desc = "GDR NBODY"
 
 [markup]
