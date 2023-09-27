@@ -14,3 +14,7 @@ The [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody) - problème quantique à N
 <img width="400" style="vertical-align: middle;" src="/img/GDR_NBODY.png" />
 
 # THE MSQM WORKSHOP
+
+Model systems in quantum mechanics that are exactly or almost exactly solvable (such as 1D models and lattice models) are important for the 
+understanding and development of computational methods. This workshop aims to describe some of these models used in quantum chemistry, condensed matter physics, and nuclear physics. The workshop will include both pedagogical talks and research talks.
+
