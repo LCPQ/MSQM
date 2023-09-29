@@ -18,7 +18,7 @@ The [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody) - problème quantique à N
 # The MSQM Workshop
 
 Model systems in quantum mechanics that are exactly or almost exactly solvable (such as 1D and lattice models) are important for the 
-understanding and development of computational methods. This workshop aims to describe some of these models used in quantum chemistry, condensed matter physics, and nuclear physics. The workshop will include both pedagogical talks and research talks.
+understanding and development of computational methods. This workshop aims to describe some of these models used in quantum chemistry, condensed matter physics, and nuclear physics. The workshop will include both pedagogical and research talks.
 
 Examples of topics covered:
 - Dimer and periodic Hubbard models
@@ -33,7 +33,7 @@ Examples of topics covered:
 
 # Registration
 
-Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would to contribute (30min talks & posters are available). There is no registration fee. **Deadline for contributions: Nov 1st 2023**.
+Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would like to contribute (30min talks & posters are available). There is no registration fee. **Deadline for contributions: Nov 1st 2023**.
 
 Due to budget limitations, the number of participants is limited to 50 (lunches and coffee breaks will be provided).
 Quick fingers first!
