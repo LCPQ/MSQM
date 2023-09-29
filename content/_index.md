@@ -32,7 +32,7 @@ Examples of topics covered:
 
 # Registration
 
-Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would to contribute (30min talks & posters are available). **There is no registration fee.**
+Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would to contribute (30min talks & posters are available). There is no registration fee. **Deadline for contributions: Nov 1st 2023**.
 
 Due to budget limitations, the number of participants is limited to 40 (lunches and coffee breaks will be provided).
 Quick fingers first!
