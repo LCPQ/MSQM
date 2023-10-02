@@ -46,8 +46,11 @@ Quick fingers first!
 1. Eleonora Luppi (LCT, Paris, organiser) <!-- gedeone.leo@gmail.com -->
 1. Pina Romaniello (LPT, Toulouse, organiser) <!-- pina.romaniello@gmail.com -->
 1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
+1. Vitaly Gorelov (LSI, Palaiseau) <!-- vitaly.gorelov@polytechnique.edu POSTER -->
+1. Antoine Levitt (LMO, Orsay) <!-- antoine.levitt@universite-paris-saclay.fr TALK -->
+1. Michel Caffarel  <!-- caffarel@irsamc.ups-tlse.fr TALK -->
 
 # Location
 
-The conference wil be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
+The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
 
