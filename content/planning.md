@@ -11,7 +11,7 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 1** | Chair:  |
+| **SESSION 1** | Chair: Julien Toulouse |
 |               |                 |
 |  9:30 - 10:00 | |
 | 10:00 - 10:30 | |
@@ -24,7 +24,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break |
 |               |                 |
-| **SESSION 2** | Chair:  |
+| **SESSION 2** | Chair: Eleonora Luppi |
 |               |                 |
 | 14:00 - 14:30 | |
 | 14:30 - 15.00 | |
@@ -43,7 +43,7 @@ draft: false
 |               |                 |
 |  9:00 -  9:30 | Welcome coffee  |
 |               |                 |
-| **SESSION 1** | Chair:  |
+| **SESSION 1** | Chair: Mi-Song Dupuy  |
 |               |                 |
 |  9:30 - 10:00 | |
 | 10:00 - 10:30 | |
@@ -56,7 +56,7 @@ draft: false
 |               |                 |
 | 12:30 - 14:00 | Lunch break |
 |               |                 |
-| **SESSION 2** | Chair:  |
+| **SESSION 2** | Chair: Emmanuel Fromager |
 |               |                 |
 | 14:00 - 14:30 | |
 | 14:30 - 15.00 | |
