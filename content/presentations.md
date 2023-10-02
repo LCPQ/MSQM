@@ -33,6 +33,15 @@ For example, it allows us to investigate the problem of unphysical solutions of 
 
 **TBA**
 
+### Eric Cancès (CERMICS, Paris)
+
+**Model systems for discretization error analysis**
+
+In the first part of my talk, I will present a detailed analysis of the famous error cancellation phenomenon in electronic structure calculation on the example of a 1D Hamiltonian with Dirac-delta potentials and periodic boundary conditions [1]. In the second part of my talk, I will illustrate the importance of continuous spectrum (scattering states) in quantum chemistry by numerical calculations based on the explicit knowledge of the bound states of the hydrogen atom [2].
+
+[1] E. Cancès and G. Dusson, Discretization error cancellation in electronic structure calculation: toward a quantitative study, M2AN 51 (2017) 1617–1636
+[2] E. Cancès, R. Coyaud and L.R. Scott, Van der Waals interactions between two hydrogen atoms: the next orders, Comm. Math. Sci. 21 (2023) 915–948.
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
