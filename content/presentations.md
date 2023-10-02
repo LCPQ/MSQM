@@ -4,7 +4,7 @@ date: 2020-12-02 09:06
 draft: false
 ---
 
-# SUBMITTED ABSTRACT
+# SUBMITTED ABSTRACTS
 
 ### Arjan Berger (LCPQ, Toulouse)
 
@@ -22,13 +22,16 @@ For example, it allows us to investigate the problem of unphysical solutions of 
 [2] A. Stan et al., New J. Phys. 17 093045 (2015)
 
 ### Michel Caffarel (LCPQ, Toulouse)
-TBA
+
+**TBA**
 
 ### Antoine Levitt (LMO, Orsay)
-TBA
+
+**TBA**
 
 ### Peter Gill (USyd, Sydney)
-TBA
+
+**TBA**
 
 # POSTERS
 
