@@ -50,6 +50,7 @@ Quick fingers first!
 1. Antoine Levitt (LMO, Orsay) <!-- antoine.levitt@universite-paris-saclay.fr TALK -->
 1. Michel Caffarel (LCPQ, Toulouse) <!-- caffarel@irsamc.ups-tlse.fr TALK -->
 1. Peter Gill (USyd, Sydney) <!-- p.gill@sydney.edu.au TALK -->
+1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr TALK -->
 
 # Location
 
