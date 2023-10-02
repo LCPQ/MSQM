@@ -51,6 +51,8 @@ Quick fingers first!
 1. Michel Caffarel (LCPQ, Toulouse) <!-- caffarel@irsamc.ups-tlse.fr TALK -->
 1. Peter Gill (USyd, Sydney) <!-- p.gill@sydney.edu.au TALK -->
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr TALK -->
+1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
+1. Eric Cances (CERMICS, Paris) <!-- eric.cances@enpc.fr -->
 
 # Location
 
