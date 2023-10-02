@@ -54,6 +54,7 @@ Quick fingers first!
 1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
 1. Eric Cancès (CERMICS, Paris) <!-- eric.cances@enpc.fr TALK -->
 1. Timothee Audinet (LCT, Jussieu) <!-- timothee.audinet-de-pieuchon@ens-lyon.fr TALK -->
+1. Antoine Marie (LCPQ, Toulouse) <!-- amarie@irsamc.ups-tlse.fr -->
 
 # Location
 
