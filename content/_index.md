@@ -48,7 +48,7 @@ Quick fingers first!
 1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
 1. Vitaly Gorelov (LSI, Palaiseau) <!-- vitaly.gorelov@polytechnique.edu POSTER -->
 1. Antoine Levitt (LMO, Orsay) <!-- antoine.levitt@universite-paris-saclay.fr TALK -->
-1. Michel Caffarel  <!-- caffarel@irsamc.ups-tlse.fr TALK -->
+1. Michel Caffarel (LCPQ, Toulouse) <!-- caffarel@irsamc.ups-tlse.fr TALK -->
 
 # Location
 
