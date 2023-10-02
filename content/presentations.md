@@ -55,9 +55,9 @@ $$
 in first quantization, we develop an effective QED Hamiltonian in a fermionic Fock-space. This effective QED theory includes the effects of the vacuum polarization but does not include the photon degrees of freedom [5,6,7]. Within this framework we are able to calculate the vacuum-polarization density and the QED Lamb-type shift of the bound-state energy.
 
 
-[1]: P. Pyykkö, Annu. Rev. Phys. Chem. 63, 45 (2012).
-[2]: D.Traore, E.Giner and J. Toulouse, J. Chem. Phys. 156, 044113 (2022).
-[3]: T.Audinet and J.Toulouse, J. Chem. Phys. 158, 244108 (2023).
+[1] P. Pyykkö, Annu. Rev. Phys. Chem. 63, 45 (2012).
+[2] D.Traore, E.Giner and J. Toulouse, J. Chem. Phys. 156, 044113 (2022).
+[3] T.Audinet and J.Toulouse, J. Chem. Phys. 158, 244108 (2023).
 [4] I.R.Lapidus, Am. J. Phys. 51, 1036 (1983).
 [5] P. Chaix and D. Iracane, J. Phys. B 22, 3791 (1989).
 [6] C. Hainzl, M. Lewin, E. Séré and J. P. Solovej, Phys. Rev. A 76, 052104 (2007).
