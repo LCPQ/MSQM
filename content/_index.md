@@ -53,6 +53,7 @@ Quick fingers first!
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr TALK -->
 1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
 1. Eric Cancès (CERMICS, Paris) <!-- eric.cances@enpc.fr TALK -->
+1. Timothee Audinet De Pieuchon (LCT, Jussieu) <!-- timothee.audinet-de-pieuchon@ens-lyon.fr TALK -->
 
 # Location
 
