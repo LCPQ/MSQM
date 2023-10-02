@@ -49,6 +49,7 @@ Quick fingers first!
 1. Vitaly Gorelov (LSI, Palaiseau) <!-- vitaly.gorelov@polytechnique.edu POSTER -->
 1. Antoine Levitt (LMO, Orsay) <!-- antoine.levitt@universite-paris-saclay.fr TALK -->
 1. Michel Caffarel (LCPQ, Toulouse) <!-- caffarel@irsamc.ups-tlse.fr TALK -->
+1. Peter Gill (USyd, Sydney) <!-- p.gill@sydney.edu.au TALK -->
 
 # Location
 
