@@ -60,7 +60,6 @@ In the first part of my talk, I will present a detailed analysis of the famous e
 
 **One-dimensional model with delta-type interactions: Dirac's equation with QED interactions**
 
-
 It is important to take into account the effects of special relativity in the quantum description of chemical systems with heavy elements. The relativistic effects account for gold’s color, mercury’s liquid state at room temperature and are responsible for the efficiency of lead-acid batteries in cars [1]. Relativistic electronic-structure computational methods have been developed in the no-pair approximation, and are now routinely applied on molecular systems. Hence, the next challenge is to go beyond the no-pair approximation by including the quantum-electrodynamics (QED) effects of virtual electron-positron pairs. Such description is needed to recover some properties, even in very simple systems, e.g. the Lamb shift in the Hydrogen atom.
 In this work we are interested in a one-dimensional model of relativistic hydrogen-like atom using delta-potential interactions. It is motivated by the non-relativistic version of this model which leads to the same ground-state energy and radial wave function as the three-dimensional one [2]. In this model we are able to make accurate QED calculations [3]. After calculating the spectrum of the 1D Dirac operator [4]
 $$
@@ -77,8 +76,21 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 [6] C. Hainzl, M. Lewin, E. Séré and J. P. Solovej, Phys. Rev. A 76, 052104 (2007).
 [7] J. Toulouse, SciPost Chem. 1, 2 (2021).
 
+### Cyril Martins (LCPQ, Toulouse)
+
+**TBA**
+
+### Leo Gaspard (LCPQ, Toulouse)
+
+**TBA**
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
 **TBA**
 
+### Antoine Roux (CEA, Saclay)
+**Emulation for (very) large scale PGCM computations of nuclei**
+
+### Pepijn Demol (KU, Leuven)
+**TBA**
