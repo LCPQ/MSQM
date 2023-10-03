@@ -23,7 +23,19 @@ For example, it allows us to investigate the problem of unphysical solutions of 
 
 ### Michel Caffarel (LCPQ, Toulouse)
 
-**TBA**
+**Path integral for the quartic oscillator: An approximate analytic expression for the partition function**
+
+Using a path integral formalism 
+we derive an approximate analytic expression for the partition function of the quartic anharmonic oscillator $V(x) = \frac{1}{2} 
+\omega^2 x^2 + g x^4$. From the partition function we also derive explicit expressions for the ground-
+and first-excited state energies $E_0(g)$ and $E_1(g)$, respectively. 
+Quite remarkably, these energies are found to be accurate for the whole range
+of the coupling constant $g$. In addition, both the weak- and strong-coupling expansions are qualitatively 
+reproduced.
+We believe that 
+our approximate explicit partition function reproducing the key features of the exact partition function 
+defines an interesting model to investigate 
+the properties of the quartic oscillator.
 
 ### Antoine Levitt (LMO, Orsay)
 
