@@ -60,8 +60,8 @@ Quick fingers first!
 1. Antoine Roux (CEA, Saclay) <!-- Antoine.roux@cea.fr POSTER --> 
 1. Pepijn Demol (KU, Leuven) <!-- pepijn.demol@kuleuven.be POSTER or TALK --> 
 1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
-1. Leo Gaspard (LCPQ, Toulosue) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
-1. Umberto MORELLINI <!-- morellini@ceremade.dauphine.fr -->
+1. Leo Gaspard (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
+1. Umberto MORELLINI (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr -->
 
 # Location
 
