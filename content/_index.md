@@ -62,6 +62,7 @@ Quick fingers first!
 1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
 1. Leo Gaspard (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
 1. Umberto MORELLINI (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr -->
+1. Samuel Aychet-Claisse (CEA, Saclay) <!-- samuel.aychet-claisse@universite-paris-saclay.fr -->
 
 # Location
 
