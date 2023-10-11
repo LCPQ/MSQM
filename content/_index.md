@@ -63,6 +63,7 @@ Quick fingers first!
 1. Leo Gaspard (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
 1. Umberto Morellini (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr -->
 1. Samuel Aychet-Claisse (CEA, Saclay) <!-- samuel.aychet-claisse@universite-paris-saclay.fr -->
+1. Rajarshi Sinha Roy (ILM, Lyon) <!-- rajarshi.sinha-roy@univ-lyon1.fr --> 
 
 # Location
 
