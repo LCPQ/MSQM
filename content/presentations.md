@@ -87,10 +87,20 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
+
 **TBA**
 
 ### Antoine Roux (CEA, Saclay)
+
 **Emulation for (very) large scale PGCM computations of nuclei**
 
 ### Pepijn Demol (KU, Leuven)
+
 **TBA**
+
+### Cesar Feniou (QUBITS-P, Paris)
+
+**Greedy Gradient-free Adaptive Variational Quantum Algorithms on a Noisy Intermediate Scale Quantum Computer**
+
+Hybrid quantum-classical adaptive Variational Quantum Eigensolvers (VQE) already hold the potential to outperform classical computing for simulating quantum many-body systems. However, their practical implementation on current quantum processing units (QPUs) is very challenging due to the noisy evaluation of a polynomially scaling number of observables, undertaken for operator selection and optimisation of a high-dimensional cost function. To overcome this, we propose new techniques to execute adaptive algorithms on a 25-qubit error-mitigated QPU coupled to a GPU-accelerated HPC simulator. Targeting physics applications, we compute the ground state of a 25-body Ising model using the newly introduced Greedy Gradient-free Adaptive VQE (CGA-VQE) requiring only five circuit measurements per iteration, regardless of the number of qubits and size of the operator pool. We show that the QPU successfully executes the algorithms and yields the correct choice of parametrised unitary operators. While the QPU evaluation of the resulting ansatz wave-function is polluted by hardware noise, a single final evaluation of the sought-after observables on a classical GPU-accelerated/noiseless simulator allows the recovery of the correct approximation of the ground state, thus highlighting the need for hybrid quantum-classical observable measurement.
+ 
