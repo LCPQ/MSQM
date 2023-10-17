@@ -65,9 +65,10 @@ Quick fingers first!
 1. Samuel Aychet-Claisse (CEA, Saclay) <!-- samuel.aychet-claisse@universite-paris-saclay.fr -->
 1. Rajarshi Sinha Roy (ILM, Lyon) <!-- rajarshi.sinha-roy@univ-lyon1.fr --> 
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr POSTER -->
-1. Cesar Feniou (QUBIT-P, Paris) <!-- <cesarf@qubit-pharmaceuticals.com TALK -->
+1. Cesar Feniou (QUBIT-P, Paris) <!-- cesarf@qubit-pharmaceuticals.com TALK -->
 1. Eloise Letournel (ENPC, Paris) <!-- eloise.letournel@enpc.fr -->
 1. Ewen Lallinec (LMO, Orsay) <!-- ewen.lallinec@universite-paris-saclay.fr -->
+1. Diata Traore (QUBIT-P, Paris) <!-- diatatraore@yahoo.com -->
    
 # Location
 
