@@ -110,4 +110,8 @@ Hybrid quantum-classical adaptive Variational Quantum Eigensolvers (VQE) already
 
 Despite our very good understanding of several models in one dimension involving interacting (Dirac) fermions, the case of Majorana fermions has remained relatively unexplored. This is probably due to the fact that Majorana particles are not found as elementary objects in nature. Nevertheless, 20 years ago, in the context of modeling p-wave superconducting wires, Alexei Kitaev proposed a very influential yet simple toy model in which unpaired Majorana fermions can appear as edge states. In this talk I will present the basics of this problem and explore the non-trivial effects of interactions in such a system, building on DMRG and self-consistent mean-field approaches. If time permits, I may also touch on disorder effects...
 
+### Jack Thomas (LMO, Orsay) 
+
+**TBA**
+
  
