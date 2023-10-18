@@ -69,7 +69,8 @@ Quick fingers first!
 1. Eloise Letournel (ENPC, Paris) <!-- eloise.letournel@enpc.fr -->
 1. Ewen Lallinec (LMO, Orsay) <!-- ewen.lallinec@universite-paris-saclay.fr -->
 1. Diata Traore (QUBIT-P, Paris) <!-- diatatraore@yahoo.com -->
-1. Nicolas Laflorencie (LPT, Toulouse) <!-- n.laflorencie@gmail.com --> 
+1. Nicolas Laflorencie (LPT, Toulouse) <!-- n.laflorencie@gmail.com TALK -->
+1. Jack Thomas (LMO, Orsay) <!-- jack.thomas@universite-paris-saclay.fr TALK -->
    
 # Location
 
