@@ -40,6 +40,7 @@ Quick fingers first!
 
 # List of Participants
 
+1. Thomas Duguet (CEA, Saclay, organiser) <!-- thomas.duguet@cea.fr -->
 1. Mi-Song Dupuy (LJLL, Paris, organiser) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 1. Emmanuel Fromager (LCQ, Strasbourg, organiser) <!-- fromagere@unistra.fr -->
 1. Pierre-Francois Loos (LCPQ, Toulouse, organiser) <!-- loos@irsamc.ups-tlse.fr -->
@@ -51,7 +52,6 @@ Quick fingers first!
 1. Michel Caffarel (LCPQ, Toulouse) <!-- caffarel@irsamc.ups-tlse.fr TALK -->
 1. Peter Gill (USyd, Sydney) <!-- p.gill@sydney.edu.au TALK -->
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr TALK -->
-1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
 1. Eric Cancès (CERMICS, Paris) <!-- eric.cances@enpc.fr TALK -->
 1. Timothee Audinet (LCT, Jussieu) <!-- timothee.audinet-de-pieuchon@ens-lyon.fr TALK -->
 1. Antoine Marie (LCPQ, Toulouse) <!-- amarie@irsamc.ups-tlse.fr POSTER -->
