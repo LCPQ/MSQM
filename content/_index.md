@@ -73,6 +73,8 @@ Quick fingers first!
 1. Jack Thomas (LMO, Orsay) <!-- jack.thomas@universite-paris-saclay.fr TALK -->
 1. Stefano Paggi (LPT, Toulouse) <!-- spaggi@irsamc.ups-tlse.fr -->
 1. Pieter Van Isacker (GANIL, Caen) <!-- isacker@ganil.fr INVITED TALK -->
+1. Alexander Tichai (TU, Darmstadt) <!-- a_tichai@theorie.ikp.physik.tu-darmstadt.de INVITED TALK -->
+1. Denis Lacrois (IN2P3, Orsay) <!-- lacroix@ijclab.in2p3.fr INVITED TALK -->
    
 # Location
 
