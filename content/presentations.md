@@ -108,7 +108,7 @@ Despite our very good understanding of several models in one dimension involving
 
 **TBA**
 
-### Denis Lacrois (IN2P3, Orsay)
+### Denis Lacroix (IN2P3, Orsay)
 
 **TBA**
 
