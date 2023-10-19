@@ -84,20 +84,6 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 
 **TBA**
 
-# POSTERS
-
-### Vitaly Gorelov (LSI, Palaiseau)
-
-**TBA**
-
-### Antoine Roux (CEA, Saclay)
-
-**Emulation for (very) large scale PGCM computations of nuclei**
-
-### Pepijn Demol (KU, Leuven)
-
-**TBA**
-
 ### Cesar Feniou (QUBITS-P, Paris)
 
 **Greedy Gradient-free Adaptive Variational Quantum Algorithms on a Noisy Intermediate Scale Quantum Computer**
@@ -125,6 +111,21 @@ Despite our very good understanding of several models in one dimension involving
 ### Denis Lacrois (IN2P3, Orsay)
 
 **TBA**
+
+# POSTERS
+
+### Vitaly Gorelov (LSI, Palaiseau)
+
+**TBA**
+
+### Antoine Roux (CEA, Saclay)
+
+**Emulation for (very) large scale PGCM computations of nuclei**
+
+### Pepijn Demol (KU, Leuven)
+
+**TBA**
+
 
 
  
