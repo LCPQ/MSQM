@@ -112,6 +112,18 @@ Despite our very good understanding of several models in one dimension involving
 
 **TBA**
 
+### Alfred Kirsch (CERMICS, Paris)
+
+**Some mathematical insights on DMFT on a Hubbard model**
+
+In this talk, I will discuss recent work on the mathematical properties of the Dynamical Mean-Field Theory applied to the Hubbard model [2, 4, 1]. In spite of its general use in condensed matter physics, the mathematical framework of DMFT has not been explored thoroughly: to our knowledge, this issue has only been addressed in [3], where it is shown that the self-consistent map is well defined for a particular set of functions representing a finite bath. In this talk, after a brief reminder on the Hubbard model and the DMFT formalism, I will present joint work with S. Perrin-Roussel and E. Cances in which we start by extending this result to a larger class of functions that can model infinite bath. I will also detail results on a specific impurity solver, the Iterated Perturbation Theory (IPT). If time allows, I will then discuss numerical developments arising from these results (using TRIQS [5]) and the well-posedness of the DMFT equations in this frame.
+
+[1] Antoine Georges, Gabriel Kotliar, Werner Krauth, and Marcelo J. Rozen- berg. Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions. Reviews of Modern Physics, 68(1):13– 125, January 1996.
+[2] J. Hubbard. Electron Correlations in Narrow Energy Bands. Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, 276(1365):238–257, 1963. Publisher: The Royal Society.
+[3] Michael Lindsey. The Quantum Many-Body Problem: Methods and Analysis. PhD thesis, UC Berkeley, Berkeley, 2019.
+[4] Walter Metzner and Dieter Vollhardt. Correlated Lattice Fermions in $d = \infty$ Dimensions. Physical Review Letters, 62(3):324–327, January 1989.
+[5] Olivier Parcollet, Michel Ferrero, Thomas Ayral, Hartmut Hafermann, Igor Krivenko, Laura Messio, and Priyanka Seth. TRIQS: A toolbox for research on interacting quantum systems. Computer Physics Communications, 196:398–415, November 2015.
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
