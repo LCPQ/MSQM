@@ -138,6 +138,8 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 
 **TBA**
 
+### Diata Traore (QUBIT-P, Paris)
 
+**TBA**
 
  
