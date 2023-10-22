@@ -142,4 +142,9 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 
 **TBA**
 
+### Jeremy Morere (LPCT, Nancy) 
+
+**TBA**
+
+
  
