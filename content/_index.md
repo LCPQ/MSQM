@@ -79,7 +79,8 @@ Quick fingers first!
 1. Solal Perrin-Roussel (CERMICS, Paris) <!-- solal.perrin-roussel@ens-paris-saclay.fr -->
 1. Jeremy Morere (LPCT, Nancy) <!-- jeremy.morere@univ-lorraine.fr -->
 1. Baptiste Claudon (LCT, Paris) <!-- baptisteclaudon@free.fr -->
-     
+1. Bertin Many (LAUM, Le Mans) <!-- bertin.many_manda@univ-lemans.fr -->
+
 # Location
 
 The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
