@@ -125,7 +125,7 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 [5] Olivier Parcollet, Michel Ferrero, Thomas Ayral, Hartmut Hafermann, Igor Krivenko, Laura Messio, and Priyanka Seth. TRIQS: A toolbox for research on interacting quantum systems. Computer Physics Communications, 196:398–415, November 2015.
 
 
-### Umberto MORELLINI (CEREMADE, Paris)
+### Umberto Morellini (CEREMADE, Paris)
 
 **Relativistic electrons coupled with Newtonian nuclear dynamics**
 
