@@ -78,6 +78,7 @@ Quick fingers first!
 1. Alfred Kirsch (CERMICS, Paris) <!-- alfred.kirsch@enpc.fr -->
 1. Solal Perrin-Roussel (CERMICS, Paris) <!-- solal.perrin-roussel@ens-paris-saclay.fr -->
 1. Jeremy Morere (LPCT, Nancy) <!-- jeremy.morere@univ-lorraine.fr -->
+1. Baptiste Claudon (LCT, Paris) <!-- baptisteclaudon@free.fr -->
      
 # Location
 
