@@ -124,6 +124,15 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 [4] Walter Metzner and Dieter Vollhardt. Correlated Lattice Fermions in $d = \infty$ Dimensions. Physical Review Letters, 62(3):324–327, January 1989.
 [5] Olivier Parcollet, Michel Ferrero, Thomas Ayral, Hartmut Hafermann, Igor Krivenko, Laura Messio, and Priyanka Seth. TRIQS: A toolbox for research on interacting quantum systems. Computer Physics Communications, 196:398–415, November 2015.
 
+
+### Umberto MORELLINI (CEREMADE, Paris)
+
+**Relativistic electrons coupled with Newtonian nuclear dynamics**
+
+In this talk, we consider a model consisting of differential equations coupling the time evolution of a finite number of relativistic electrons with the Newtonian dynamics of finitely many nuclei, where the former is described by the Bogoliubov-Dirac-Fock (BDF) equation of quantum electrodynamics (QED). The Cauchy problem for this model is addressed, proving a global well-posedness result. We believe that this system can be seen as a first step in the study of molecular dynamics phenomena, when both relativistic and quantum effects have to be taken into account [1].
+
+[1] https://arxiv.org/abs/2310.13501
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
