@@ -137,6 +137,10 @@ In this talk, we consider a model consisting of differential equations coupling 
 
 **TBA**
 
+### Quentin Marecat (ICGM, Montpellier)
+
+**TBA**
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
