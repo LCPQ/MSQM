@@ -133,6 +133,10 @@ In this talk, we consider a model consisting of differential equations coupling 
 
 [1] https://arxiv.org/abs/2310.13501
 
+### Bruno Senjean (ICGM, Montpellier)
+
+**TBA**
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
