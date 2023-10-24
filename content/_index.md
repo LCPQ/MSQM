@@ -82,6 +82,7 @@ Quick fingers first!
 1. Bertin Many (LAUM, Le Mans) <!-- bertin.many_manda@univ-lemans.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr TALK -->
 1. Quentin Marecat (ICGM, Montpellier) <!-- quentin.marecat@umontpellier.fr -->
+1. Gaspard Kemlin (LAMFA, Amiens) <!-- gaspard.kemlin@u-picardie.fr -->
 
 # Location
 
