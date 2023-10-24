@@ -80,6 +80,7 @@ Quick fingers first!
 1. Jeremy Morere (LPCT, Nancy) <!-- jeremy.morere@univ-lorraine.fr -->
 1. Baptiste Claudon (LCT, Paris) <!-- baptisteclaudon@free.fr -->
 1. Bertin Many (LAUM, Le Mans) <!-- bertin.many_manda@univ-lemans.fr -->
+1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr TALK -->
 
 # Location
 
