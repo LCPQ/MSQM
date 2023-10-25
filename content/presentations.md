@@ -10,13 +10,7 @@ draft: false
 
 **The one-point model: solving equations in pointland**
 
-In the one-point model we consider a zero-dimensional space.
-The advantage of this model is that the many-body equations simplify enormously and can be solved analytically.
-In particular, the one-body Greenʼs function is a solution of a set of functional integro-differential equations, which relate the one-particle Greenʼs
-function to its functional derivative with respect to an external potential [1].
-In the one-point model, these equations become ordinary differential equations that are solvable with standard techniques. 
-This allows us to analyze several aspects of these equations as well as of standard methods for determining the one-body Greenʼs function, such as GW, that are important for real systems.
-For example, it allows us to investigate the problem of unphysical solutions of the many-body equations [2].
+In the one-point model we consider a zero-dimensional space. The advantage of this model is that the many-body equations simplify enormously and can be solved analytically. In particular, the one-body Greenʼs function is a solution of a set of functional integro-differential equations, which relate the one-particle Greenʼs function to its functional derivative with respect to an external potential [1]. In the one-point model, these equations become ordinary differential equations that are solvable with standard techniques.  This allows us to analyze several aspects of these equations as well as of standard methods for determining the one-body Greenʼs function, such as GW, that are important for real systems. For example, it allows us to investigate the problem of unphysical solutions of the many-body equations [2].
 
 [1] J.A. Berger et al., New J. Phys. 16 113025 (2014)
 [2] A. Stan et al., New J. Phys. 17 093045 (2015)
@@ -25,17 +19,7 @@ For example, it allows us to investigate the problem of unphysical solutions of 
 
 **Path integral for the quartic oscillator: An approximate analytic expression for the partition function**
 
-Using a path integral formalism 
-we derive an approximate analytic expression for the partition function of the quartic anharmonic oscillator $V(x) = \frac{1}{2} 
-\omega^2 x^2 + g x^4$. From the partition function we also derive explicit expressions for the ground-
-and first-excited state energies $E_0(g)$ and $E_1(g)$, respectively. 
-Quite remarkably, these energies are found to be accurate for the whole range
-of the coupling constant $g$. In addition, both the weak- and strong-coupling expansions are qualitatively 
-reproduced.
-We believe that 
-our approximate explicit partition function reproducing the key features of the exact partition function 
-defines an interesting model to investigate 
-the properties of the quartic oscillator.
+Using a path integral formalism we derive an approximate analytic expression for the partition function of the quartic anharmonic oscillator $V(x) = \frac{1}{2} \omega^2 x^2 + g x^4$. From the partition function we also derive explicit expressions for the ground- and first-excited state energies $E_0(g)$ and $E_1(g)$, respectively. Quite remarkably, these energies are found to be accurate for the whole range of the coupling constant $g$. In addition, both the weak- and strong-coupling expansions are qualitatively reproduced. We believe that our approximate explicit partition function reproducing the key features of the exact partition function defines an interesting model to investigate the properties of the quartic oscillator.
 
 ### Antoine Levitt (LMO, Orsay)
 
@@ -60,8 +44,7 @@ In the first part of my talk, I will present a detailed analysis of the famous e
 
 **One-dimensional model with delta-type interactions: Dirac's equation with QED interactions**
 
-It is important to take into account the effects of special relativity in the quantum description of chemical systems with heavy elements. The relativistic effects account for gold’s color, mercury’s liquid state at room temperature and are responsible for the efficiency of lead-acid batteries in cars [1]. Relativistic electronic-structure computational methods have been developed in the no-pair approximation, and are now routinely applied on molecular systems. Hence, the next challenge is to go beyond the no-pair approximation by including the quantum-electrodynamics (QED) effects of virtual electron-positron pairs. Such description is needed to recover some properties, even in very simple systems, e.g. the Lamb shift in the Hydrogen atom.
-In this work we are interested in a one-dimensional model of relativistic hydrogen-like atom using delta-potential interactions. It is motivated by the non-relativistic version of this model which leads to the same ground-state energy and radial wave function as the three-dimensional one [2]. In this model we are able to make accurate QED calculations [3]. After calculating the spectrum of the 1D Dirac operator [4]
+It is important to take into account the effects of special relativity in the quantum description of chemical systems with heavy elements. The relativistic effects account for gold’s color, mercury’s liquid state at room temperature and are responsible for the efficiency of lead-acid batteries in cars [1]. Relativistic electronic-structure computational methods have been developed in the no-pair approximation, and are now routinely applied on molecular systems. Hence, the next challenge is to go beyond the no-pair approximation by including the quantum-electrodynamics (QED) effects of virtual electron-positron pairs. Such description is needed to recover some properties, even in very simple systems, e.g. the Lamb shift in the Hydrogen atom. In this work we are interested in a one-dimensional model of relativistic hydrogen-like atom using delta-potential interactions. It is motivated by the non-relativistic version of this model which leads to the same ground-state energy and radial wave function as the three-dimensional one [2]. In this model we are able to make accurate QED calculations [3]. After calculating the spectrum of the 1D Dirac operator [4]
 $$
 \boldsymbol{\mathrm{D}}(x) = -\mathrm{i} c \boldsymbol{\sigma}_1 \frac{\mathrm{d}}{\mathrm{d} x} + \boldsymbol{\sigma}_3 m c^2  -Z \delta(x)
 $$
@@ -145,6 +128,12 @@ In this talk, we consider a model consisting of differential equations coupling 
 **A Rigorous Justification Of Mittleman’s Approach To The Dirac–Fock Model**
 
 In this talk, we study the relationship between the Dirac–Fock model and the electron-positron Hartree–Fock model. We justify the Dirac–Fock model as a variational approximation of QED when the vacuum polarization is neglected and when the fine structure constant $\alpha$ is small and the velocity of light $c$ is large. As a byproduct, we also prove, when $\alpha$ is small or $c$ is large, the no-unfilled shells theory in the Dirac–Fock theory for atoms and molecules. The proof is based on some new properties of the Dirac-Fock model.
+
+### David Gontier (CEREMADE, Paris) 
+
+**Phase transition in the Peierls / SSH model**
+
+The Peierls/SSH model is a simple one-dimensional model used to describe molecular chains such as polyacetylene. In this model, we consider a distortion energy between the atoms, and an electronic quantum energy given by a tight-binding model. Peierls showed that it was energetically favorable for the chain to dimerize (hence the structure …=C-C=C-… of polyacetylene). In this talk, we will study the phase diagram of this model, when we add temperature. We show the existence of a critical temperature above which the chain no longer dimerizes. Work in collaboration with Adéchola Kouandé and Éric Séré.
 
 # POSTERS
 
