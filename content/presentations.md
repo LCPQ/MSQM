@@ -124,7 +124,6 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 [4] Walter Metzner and Dieter Vollhardt. Correlated Lattice Fermions in $d = \infty$ Dimensions. Physical Review Letters, 62(3):324–327, January 1989.
 [5] Olivier Parcollet, Michel Ferrero, Thomas Ayral, Hartmut Hafermann, Igor Krivenko, Laura Messio, and Priyanka Seth. TRIQS: A toolbox for research on interacting quantum systems. Computer Physics Communications, 196:398–415, November 2015.
 
-
 ### Umberto Morellini (CEREMADE, Paris)
 
 **Relativistic electrons coupled with Newtonian nuclear dynamics**
@@ -140,6 +139,12 @@ In this talk, we consider a model consisting of differential equations coupling 
 ### Quentin Marecat (ICGM, Montpellier)
 
 **TBA**
+
+### Long Meng (CERMICS, Paris) 
+
+**A Rigorous Justification Of Mittleman’s Approach To The Dirac–Fock Model**
+
+In this talk, we study the relationship between the Dirac–Fock model and the electron-positron Hartree–Fock model. We justify the Dirac–Fock model as a variational approximation of QED when the vacuum polarization is neglected and when the fine structure constant $\alpha$ is small and the velocity of light $c$ is large. As a byproduct, we also prove, when $\alpha$ is small or $c$ is large, the no-unfilled shells theory in the Dirac–Fock theory for atoms and molecules. The proof is based on some new properties of the Dirac-Fock model.
 
 # POSTERS
 
