@@ -84,6 +84,7 @@ Quick fingers first!
 1. Quentin Marecat (ICGM, Montpellier) <!-- quentin.marecat@umontpellier.fr -->
 1. Gaspard Kemlin (LAMFA, Amiens) <!-- gaspard.kemlin@u-picardie.fr -->
 1. Long Meng (CERMICS, Paris) <!-- long.meng@enpc.fr TALK -->
+1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr INVITED TALK -->
 
 # Location
 
