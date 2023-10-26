@@ -86,6 +86,7 @@ Quick fingers first!
 1. Long Meng (CERMICS, Paris) <!-- long.meng@enpc.fr TALK -->
 1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr INVITED TALK -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
+1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
 
 # Location
 
