@@ -88,7 +88,7 @@ Quick fingers first!
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
 1. Emmanuel Giner (LCT, Paris) <!-- giner.emmanuel@gmail.com -->
-1. M. Rodríguez-Mayorga (Neel Institute, Grenoble) <!-- marm3.14@gmail.com POSTER -->
+1. Mauricio Rodríguez-Mayorga (Neel Institute, Grenoble) <!-- marm3.14@gmail.com POSTER -->
 
 # Location
 
