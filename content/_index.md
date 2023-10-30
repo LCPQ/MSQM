@@ -87,6 +87,7 @@ Quick fingers first!
 1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr INVITED TALK -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
+1. Emmanuel Giber (LCT, Paris) <!-- giner.emmanuel@gmail.com -->
 
 # Location
 
