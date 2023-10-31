@@ -136,7 +136,20 @@ In this talk, we consider a model consisting of differential equations coupling 
 
 ### Quentin Marecat (ICGM, Montpellier)
 
-**TBA**
+**Site-occupation embedding theory and ensemble density functional theory on the Hubbard dimer**
+
+Describing the electronic correlation effects is a key challenge in quantum chemistry and condensed matter physics. Indeed, there is always a trade-off between the accuracy and the computational cost: while wavefunction-based methods are expensive but accurate, reduced-quantity-based methods (such as density functional theory (DFT)) are cheaper but more proned to errors due to approximations of their energy functionals. The holy grail method remains to be found, thus motivating new methodological developments on laboratory-models, due to both their simplicity as well as their physical richness.
+In this talk, I will discuss two different in-principle-exact methods, one falling in the scope of embedding approaches that combine a many-body wavefunction with density functionals [1-4], and another that is an extension of density functional theory for the ensembles [5]. I will particularly focus on their implementation on the Hubbard dimer.
+The former, called site-occupation embedding theory, aims to make the best compromise between computation cost and accuracy, by treating the correlation explicitly on a small part of the system while the correlation of the rest of the system is described implicitly with a density functionals, for which approximations have been developed on model Hamiltonians.
+The second approach, called ensemble-DFT, allows the direct extraction of quantities such as excitations energies, ionisation potentials, electronic affinities and ergo the optical and fundamental gap. In contrast to regular ground-state DFT, the ensemble DFT exactifies the latter quantities that are inherently different from the KS gap (energy difference between the HOMO and LUMO) by a quantity referred to as the derivative discontinuity. In ensemble-DFT, the notion of derivative discontinuity is reformulated as a weight-derivative of the exchange-correlation energy functional of the density, from which functionals are currently developed on simple models [6-10].
+[1] B. Senjean, M. Tsuchiizu, V. Robert, E. Fromager. Mol. Phys., 115, 48. (2017)
+[2] B. Senjean, N. Nakatani, M. Tsuchiizu, E. Fromager. Phys. Rev. B, 97, 235105 (2018) [3] B. Senjean. Phys. Rev. B, 100, 035136 (2019)
+[4] B. Senjean, N. Nakatani, M. Tsuchiizu, E. Fromager. Theor. Chem. Acc. 137, 169 (2018) [5] E. K. U. Gross, L. N. Oliveira, and W. Kohn, Phys. Rev. A 37, 2809 (1988)
+[6] B. Senjean, E. Fromager. Phys. Rev. A, 98, 022513 (2018)
+[7] B. Senjean, E. Fromager. Int. J. Quantum Chem. 120, e26190 (2020)
+[8] C. Marut, B. Senjean et al. Faraday Discussions, 224, 402 (2020)
+[9] F. Cernatic, B. Senjean, et al. Top. Curr. Chem. (Z) 380, 4 (2022)
+[10] F. Cernatic, P-F. Loos, B. Senjean, and E. Fromager, in preparation.
 
 ### Long Meng (CERMICS, Paris) 
 
