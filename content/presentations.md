@@ -65,7 +65,22 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 
 ### Leo Gaspard (LCPQ, Toulouse)
 
-**TBA**
+**Application of DMFT to realistic materials : the example of Ba2IrO4**
+
+Describing the behavior of strongly correlated materials from first principles remains nowadays a challenge in computational condensed matter physics. Indeed, when Coulomb interaction is of the same order of magnitude as the kinetic energy of the electrons, like in materials with open d-shells, the Kohn-Sham band structure obtained within Density Functional Theory (DFT) is often quantitatively -- and even sometimes qualitatively -- wrong. To take strong correlations into account, Dynamical Mean Field Theory (DMFT) has been successfully coupled with DFT, in a scheme dubbed DFT+DMFT, to treat such systems for the past 25 years [1,2].
+
+In this talk, I will introduce how the state-of-the-art DFT+DMFT calculations can be performed, using the example of Ba2IrO4, a compound isostructural to the well-known La2CuO4 [3]: starting from a DFT calculation, a Hubbard-Kanamori-like model Hamiltonian is parametrized [4,5] using Wannier functions [6] and constrained Random Phase Approximation (cRPA) [7]. The model is then solved within DMFT using a continuous time Monte-Carlo solver in the Hybridization expansion (CT-HYB) scheme [8]. The calculated spectral function compares very well with available experimental angle-resolved photo-emission spectroscopy (ARPES) data [3] and sheds light on the complex physics in this material, where strong electron-electron interaction interplays with a large spin-orbit coupling.
+
+This research work not only enhances our comprehension of the low-energy physics of Ba2IrO4 but paves also the way to study other spin-orbit materials with intriguing physics, especially the iridium-based compound Sr2IrO4.
+
+[1] V. I. Anisimov et al 1997 J. Phys.: Condens. Matter 9 7359
+[2] A. I. Lichtenstein and M. I. Katsnelson 1998 Phys. Rev. B 57 6884.
+[3] S. Moser et al 2014 New J. Phys. 16 013008
+[4] J. Hubbard. 1963 Proc. R. Soc. London A 276 238
+[5] J. Kanamori 1963 Prog. Theor. Phys. 30 275–289
+[6] N. Marzari et al Rev. Mod. 2012 Phys. 84, 1419
+[7] F. Aryasetiawan et al 2004 Phys.Rev. B 70, 195104.
+[8] P. Seth 2016 Comp. Phys. Com. 200 274-284
 
 ### Cesar Feniou (QUBITS-P, Paris)
 
