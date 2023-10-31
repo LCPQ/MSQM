@@ -7,34 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>gdrnbody@lct.jussieu.fr (GDR NBODY)</managingEditor>
-    <webMaster>gdrnbody@lct.jussieu.fr (GDR NBODY)</webMaster><atom:link href="https://lcpq.github.io/MSQM/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>gdrnbody@lct.jussieu.fr (GDR NBODY)</webMaster>
+    <atom:link href="https://lcpq.github.io/MSQM/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentations</title>
       <link>https://lcpq.github.io/MSQM/presentations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gdrnbody@lct.jussieu.fr (GDR NBODY)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gdrnbody@lct.jussieu.fr (GDR NBODY)</author>
       <guid>https://lcpq.github.io/MSQM/presentations/</guid>
       <description>SUBMITTED ABSTRACTS Arjan Berger (LCPQ, Toulouse) The one-point model: solving equations in pointland
 In the one-point model we consider a zero-dimensional space. The advantage of this model is that the many-body equations simplify enormously and can be solved analytically. In particular, the one-body Greenʼs function is a solution of a set of functional integro-differential equations, which relate the one-particle Greenʼs function to its functional derivative with respect to an external potential [1].</description>
     </item>
-    
     <item>
       <title>Program</title>
       <link>https://lcpq.github.io/MSQM/planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gdrnbody@lct.jussieu.fr (GDR NBODY)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gdrnbody@lct.jussieu.fr (GDR NBODY)</author>
       <guid>https://lcpq.github.io/MSQM/planning/</guid>
       <description>Thursday, January 11, 2024 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 1 Chair: Julien Toulouse 9:30 - 10:00 10:00 - 10:30 10:30 - 11:00 Coffee break 11:00 - 11:30 11:30 - 12:00 12:00 - 12:30 12:30 - 14:00 Lunch break SESSION 2 Chair: Eleonora Luppi 14:00 - 14:30 14:30 - 15.00 15:00 - 16:00 Coffee break 16:00 - 16:30 16:30 - 17.00 17:00 - 17.30 Friday, January 12, 2024 TIME EVENT 9:00 - 9:30 Welcome coffee SESSION 1 Chair: Mi-Song Dupuy 9:30 - 10:00 10:00 - 10:30 10:30 - 11:00 Coffee break 11:00 - 11:30 11:30 - 12:00 12:00 - 12:30 12:30 - 14:00 Lunch break SESSION 2 Chair: Emmanuel Fromager 14:00 - 14:30 14:30 - 15.</description>
     </item>
-    
     <item>
       <title>Sponsors</title>
       <link>https://lcpq.github.io/MSQM/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gdrnbody@lct.jussieu.fr (GDR NBODY)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gdrnbody@lct.jussieu.fr (GDR NBODY)</author>
       <guid>https://lcpq.github.io/MSQM/sponsors/</guid>
       <description> CNRS LCPQ FERMI UPS </description>
     </item>
-    
   </channel>
 </rss>

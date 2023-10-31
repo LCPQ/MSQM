@@ -60,7 +60,7 @@ In the one-point model we consider a zero-dimensional space. The advantage of th
   "headline": "Presentations",
   "description" : "SUBMITTED ABSTRACTS Arjan Berger (LCPQ, Toulouse) The one-point model: solving equations in pointland\nIn the one-point model we consider a zero-dimensional space. The advantage of this model is that the many-body equations simplify enormously and can be solved analytically. In particular, the one-body Greenʼs function is a solution of a set of functional integro-differential equations, which relate the one-particle Greenʼs function to its functional derivative with respect to an external potential [1].",
   "inLanguage" : "en",
-  "wordCount":  2213 ,
+  "wordCount":  2544 ,
   "datePublished" : "0001-01-01T00:00:00",
   "dateModified" : "0001-01-01T00:00:00",
   "image" : "https:\/\/lcpq.github.io\/MSQM\/img\/sphericalcow.png",
@@ -94,7 +94,7 @@ In the one-point model we consider a zero-dimensional space. The advantage of th
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@GDR_NBODY" />
   <meta name="twitter:creator" content="@GDR_NBODY" />
-  <meta name="generator" content="Hugo 0.119.0">
+  <meta name="generator" content="Hugo 0.120.1">
   <link rel="alternate" href="https://lcpq.github.io/MSQM/index.xml" type="application/rss+xml" title="MODEL SYSTEMS IN QUANTUM MECHANICS (11-12 Jan 2024, Toulouse)"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://lcpq.github.io/MSQM/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -290,7 +290,18 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 <h3 id="cyril-martins-lcpq-toulouse">Cyril Martins (LCPQ, Toulouse)</h3>
 <p><strong>TBA</strong></p>
 <h3 id="leo-gaspard-lcpq-toulouse">Leo Gaspard (LCPQ, Toulouse)</h3>
-<p><strong>TBA</strong></p>
+<p><strong>Application of DMFT to realistic materials : the example of Ba2IrO4</strong></p>
+<p>Describing the behavior of strongly correlated materials from first principles remains nowadays a challenge in computational condensed matter physics. Indeed, when Coulomb interaction is of the same order of magnitude as the kinetic energy of the electrons, like in materials with open d-shells, the Kohn-Sham band structure obtained within Density Functional Theory (DFT) is often quantitatively &ndash; and even sometimes qualitatively &ndash; wrong. To take strong correlations into account, Dynamical Mean Field Theory (DMFT) has been successfully coupled with DFT, in a scheme dubbed DFT+DMFT, to treat such systems for the past 25 years [1,2].</p>
+<p>In this talk, I will introduce how the state-of-the-art DFT+DMFT calculations can be performed, using the example of Ba2IrO4, a compound isostructural to the well-known La2CuO4 [3]: starting from a DFT calculation, a Hubbard-Kanamori-like model Hamiltonian is parametrized [4,5] using Wannier functions [6] and constrained Random Phase Approximation (cRPA) [7]. The model is then solved within DMFT using a continuous time Monte-Carlo solver in the Hybridization expansion (CT-HYB) scheme [8]. The calculated spectral function compares very well with available experimental angle-resolved photo-emission spectroscopy (ARPES) data [3] and sheds light on the complex physics in this material, where strong electron-electron interaction interplays with a large spin-orbit coupling.</p>
+<p>This research work not only enhances our comprehension of the low-energy physics of Ba2IrO4 but paves also the way to study other spin-orbit materials with intriguing physics, especially the iridium-based compound Sr2IrO4.</p>
+<p>[1] V. I. Anisimov et al 1997 J. Phys.: Condens. Matter 9 7359
+[2] A. I. Lichtenstein and M. I. Katsnelson 1998 Phys. Rev. B 57 6884.
+[3] S. Moser et al 2014 New J. Phys. 16 013008
+[4] J. Hubbard. 1963 Proc. R. Soc. London A 276 238
+[5] J. Kanamori 1963 Prog. Theor. Phys. 30 275–289
+[6] N. Marzari et al Rev. Mod. 2012 Phys. 84, 1419
+[7] F. Aryasetiawan et al 2004 Phys.Rev. B 70, 195104.
+[8] P. Seth 2016 Comp. Phys. Com. 200 274-284</p>
 <h3 id="cesar-feniou-qubits-p-paris">Cesar Feniou (QUBITS-P, Paris)</h3>
 <p><strong>Greedy Gradient-free Adaptive Variational Quantum Algorithms on a Noisy Intermediate Scale Quantum Computer</strong></p>
 <p>Hybrid quantum-classical adaptive Variational Quantum Eigensolvers (VQE) already hold the potential to outperform classical computing for simulating quantum many-body systems. However, their practical implementation on current quantum processing units (QPUs) is very challenging due to the noisy evaluation of a polynomially scaling number of observables, undertaken for operator selection and optimisation of a high-dimensional cost function. To overcome this, we propose new techniques to execute adaptive algorithms on a 25-qubit error-mitigated QPU coupled to a GPU-accelerated HPC simulator. Targeting physics applications, we compute the ground state of a 25-body Ising model using the newly introduced Greedy Gradient-free Adaptive VQE (CGA-VQE) requiring only five circuit measurements per iteration, regardless of the number of qubits and size of the operator pool. We show that the QPU successfully executes the algorithms and yields the correct choice of parametrised unitary operators. While the QPU evaluation of the resulting ansatz wave-function is polluted by hardware noise, a single final evaluation of the sought-after observables on a classical GPU-accelerated/noiseless simulator allows the recovery of the correct approximation of the ground state, thus highlighting the need for hybrid quantum-classical observable measurement.</p>
@@ -434,7 +445,7 @@ In this work, we explore numerically the role of relativistic effects on the two
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="https://gohugo.io">Hugo v0.119.0</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          <a href="https://gohugo.io">Hugo v0.120.1</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
