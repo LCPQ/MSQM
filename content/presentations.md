@@ -23,7 +23,11 @@ Using a path integral formalism we derive an approximate analytic expression for
 
 ### Antoine Levitt (LMO, Orsay)
 
-**TBA**
+**Resonances: the example of the 1D chain**
+
+I will discuss the concept of quantum mechanical resonances and
+numerical methods to compute them, starting from the example of the 1D
+chain.
 
 ### Peter Gill (USyd, Sydney)
 
