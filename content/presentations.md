@@ -99,7 +99,11 @@ Despite our very good understanding of several models in one dimension involving
 
 ### Jack Thomas (LMO, Orsay) 
 
-**TBA**
+**Friedel oscillations in the reduced Hartree-Fock model**
+
+When a defect potential is placed in a material, the material rearranges and the total potential at long-range is screened by the electrons. In the finite temperature reduced Hartree-Fock model, small defects are completely screened [1]; the total change in potential decays exponentially. On the other hand, in metals at zero temperature, the presence of the Fermi-surface introduces non-analytic behaviour into the independent-particle susceptibility, leading to what are known as Friedel oscillations; the total potential oscillates and decays algebraically. In this talk, we will show how this rate of decay depends on the properties of the Fermi-surface. Joint work with Antoine Levitt. 
+
+[1] Antoine Levitt, Archive for Rational Mechanics and Analysis 238 (2020) 901–927 
 
 ### Pieter Van Isacker (GANIL, Caen)
 
