@@ -149,7 +149,16 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 
 ### Quentin Marecat (ICGM, Montpellier)
 
-**TBA**
+**Recursive relations and quantum eigensolver algorithms within modified Schrieffer-Wolff transformations for the Hubbard dimer**
+
+The emergence of quantum computers has rekindled interest in solving the Hubbard model accurately for any dimension, size, regime, and filling. Several quantum algorithms have been proposed for this purpose, targeting both Noisy Intermediate Scale Quantum (NISQ) devices and long-term fault-tolerant quantum devices. These algorithms often employ hybrid classical/quantum strategies, such as the Variational Quantum Eigensolver (VQE), to optimize variational parameters on classical computers while applying parameterized unitary transformations on quantum devices.
+One promising approach is the unitary Van-Vleck (VV) similarity transformation[1]. It involves designing a unitary transformation that rotates the Hubbard Hamiltonian into an effective Hamiltonian in the low-energy subspace. This transformation can be used to obtain the ground state (or excited states) of the Hubbard model on a quantum computer. However, finding an explicit expression for the VV generator is often challenging, necessitating truncation or approximations such as the Schrieffer and Wolff (SW) transformation[2].
+In this talk, I introduce modifications of the SW generator for the Hubbard dimer, providing both variational and iterative approaches. These modified SW transformations approximate, or even per- form the desired block-diagonalization of the Hubbard dimer at infinite perturbation order, similar to the VV generator. Two quantum algorithms associated with these modified SW transformations for the Hubbard dimer are presented, demonstrating their effectiveness, especially in the strongly interacting regime[3].
+
+[1] I. Shavitt, and L. T. Redmon, "Quasidegenerate perturbation theories. A canonical van Vleck formalism and its relationship to other approaches.", The Journal of Chemical Physics 73, 5711- 5717. (1980).
+[2] J.R. Schrieffer, and P.A. Wolff, "Relation between the Anderson and kondo hamiltonians", Physical Review 149, 491 (1966).
+[3] Q. Marécat, B. Senjean and M. Saubanère, "Recursive relations and quantum eigensolver algorithms within modified Schrieffer- Wolff transformations for the Hubbard dimer.", Physical Review
+B 107, 155110 (2023).
 
 ### Long Meng (CERMICS, Paris) 
 
