@@ -214,6 +214,12 @@ The Peierls/SSH model is a simple one-dimensional model used to describe molecul
 
 **TBA**
 
+When we are interested in describing the reorganization of electronic structure induced by the interaction between radiation and matter, two objects are particularly crucial : the one-body difference density matrix and the one-body transition density matrix. The primary motivation that led us to focus on these two matrices is as follows : the first one allows us to calculate the expectation value of one-body operators between two electronic states without needing these two states directly — for example, in TD-DFT, we do not explicitly access the excited states. The second one provides us with expected values associated with transition properties— for example, if the chosen operator is the electron's position operator, the associated quantity is the transition dipole moment, the square of which is directly proportional to the oscillator strength.
+
+If we had access to the exact eigenstates of the stationary Hamiltonian, we could write an exact transition operator. It is possible to demonstrate that a combination of arbitrary complexity degrees of this operator with second quantization operators allows us to write the exact expression of our two density matrices of interest.
+
+As TD-DFT method do not allow the formulation of such operator, writing an approximate expression for these objects involves the use of a substitution operator. This operator is inspired by the operator that generates the central equation of the "Random Phase Approximation" method. We intend to demonstrate and justify why the choice of the complexity degree of the superoperators that can be involved in writing the expression of the two density matrices is not arbitrary.
+
 ### Mauricio Rodríguez-Mayorga (Neel Institute, Grenoble)
 
 **Relativistic effects on the two-electron Harmonium atom**
