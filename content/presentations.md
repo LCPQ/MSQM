@@ -107,7 +107,19 @@ When a defect potential is placed in a material, the material rearranges and the
 
 ### Pieter Van Isacker (GANIL, Caen)
 
-**TBA**
+**Symmetries of nuclear models**
+
+Symmetry considerations have played an important role in the development of the interacting
+shell model as well as the geometric collective model of the atomic nucleus. On the one hand,
+the nuclear many-body problem, formulated in terms of interacting nucleons in a spherical
+harmonic oscillator, has two analytic solutions, namely if the interaction is of the pairing or of
+the quadrupole type, giving rise to an underlying SU(2) or SU(3) symmetry, respectively. On
+the other hand, the collective description of the nucleus by way of phonon-like excitations
+(bosons) of a liquid drop leads to the U(5) symmetry of a harmonic oscillator in five
+dimensions. A connection between both views of the nucleus can be obtained through the
+interacting boson model, whose spectrum-generating algebra is U(6).
+In this talk I will review historical developments of several symmetry models of the atomic
+nucleus and discuss applications of relevance to current studies in nuclear structure.
 
 ### Alexander Tichai (TU, Darmstadt)
 
