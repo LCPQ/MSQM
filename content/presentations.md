@@ -196,7 +196,7 @@ The Peierls/SSH model is a simple one-dimensional model used to describe molecul
 
 ### Vitaly Gorelov (LSI, Palaiseau)
 
-**TBA**
+**Exploring electronic interactions and charge transfer in photovoltaic systems via a model Hamiltonian**
 
 ### Antoine Roux (CEA, Saclay)
 
