@@ -202,10 +202,6 @@ The Peierls/SSH model is a simple one-dimensional model used to describe molecul
 
 **Emulation for (very) large scale PGCM computations of nuclei**
 
-### Pepijn Demol (KU, Leuven)
-
-**TBA**
-
 ### Diata Traore (QUBIT-P, Paris)
 
 **TBA**
