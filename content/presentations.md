@@ -138,7 +138,7 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 
 **TBA**
 
-### Pina Romaniello (LPT, Toulouse)
+### Lucia Reining (LSI, Palaiseau)
 
 **TBA**
 
@@ -161,6 +161,16 @@ In this work, we explore numerically the role of relativistic effects on the two
 [4] Taut, M. (1993). Two electrons in an external oscillator potential: Particular analytic solutions of a Coulomb correlation problem. Phys. Rev. A, 48, 3561.
 [5] Rodríguez-Mayorga, M., Ramos-Cordoba, E., Via-Nadal, M., Piris, M., & Matito, E. (2017). Comprehensive benchmarking of density matrix functional approximations. Phys. Chem. Chem. Phys., 19, 24029.
 [6] Jana, S., Behera, S. K., Śmiga, S., Constantin, L. A., & Samal, P. (2021). Improving the applicability of the Pauli kinetic energy density based semilocal functional for solids. New J. Phys., 23, 063007.
+
+### Aleksandra Petkovic (LPT, Toulouse)
+
+**Dissipative impurity dynamics in one dimensional quantum liquids**
+
+In the first part of the talk we will consider a system of bosons with contact interaction in one dimension, the Lieb-Liniger model. Then, we will study the motion of a slow impurity (a foreign particle) through this system. While at zero temperature the impurity motion is frictionless, at low temperatures finite friction appears due to scattering off thermally excited quasiparticles. We will derive analytical results for the friction force within a microscopic theory and uncover interesting regimes of the impurity dynamics.
+
+### Marie Labeye (ENS, Paris)
+
+**TBA**
 
 # POSTERS
 

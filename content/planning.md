@@ -13,7 +13,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Julien Toulouse |
 |               |                 |
-|  9:30 - 10:00 | Pina Romaniello - TBA |
+|  9:30 - 10:00 | Lucia Reining - TBA |
 | 10:00 - 10:30 | Bruno Senjean - Site-occupation embedding theory and ensemble density functional theory on the Hubbard dimer
 |               |                 |
 | 10:30 - 11:00 | Coffee break    |
@@ -47,7 +47,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Thomas Duguet |
 |               |                 |
-|  9:30 - 10:00 | Marie Labeye ? |
+|  9:30 - 10:00 | Marie Labeye - TBA |
 | 10:00 - 10:30 | Umberto Morellini - Relativistic electrons coupled with Newtonian nuclear dynamics |
 |               |                 |
 | 10:30 - 11:00 | Coffee break    |
@@ -65,7 +65,7 @@ draft: false
 |               |                 |
 | 15:00 - 16:00 | Coffee break    |
 |               |                 |
-| 16:00 - 16:30 | Aleksandra Petković ? |
+| 16:00 - 16:30 | Aleksandra Petkovic - Dissipative impurity dynamics in one dimensional quantum liquids |
 | 16:30 - 17.00 | David Gontier - Phase transition in the Peierls / SSH model |
 | 17:00 - 17.30 | Antoine Levitt - Resonances: the example of the 1D chain |
 |               |                 |
