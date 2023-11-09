@@ -31,9 +31,9 @@ chain.
 
 ### Peter Gill (USyd, Sydney)
 
-**How delocalised are the polyacenes?**
+**TBA**
 
-The polyacenes or $n$-acenes consist of $n$ linearly fused benzene rings, and include benzene itself, naphthalene, anthracene, tetracene, etc.  Their $\sigma$ electrons are well localised into C-C and C-H bonds and their $\pi$ electrons are delocalised over the entire molecule.  At least, that is what many of us teach our undergraduate students.  But is it true?  In this lecture, I will report calculations in which the $\pi$ electrons are artificially confined into localised orbitals and I will use the resulting energy increase — the localisation energy — as a measure of the degree to which the $\pi$ electrons want to be delocalised.  The results suggest that we may need to update our undergraduate lectures…
+
 
 ### Eric Cancès (CERMICS, Paris)
 
