@@ -129,7 +129,14 @@ nucleus and discuss applications of relevance to current studies in nuclear stru
 
 ### Denis Lacroix (IN2P3, Orsay)
 
-**TBA**
+**Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing**
+
+I will discuss the basic ingredient of the Lipkin model consisting of a set of permutation invariant 2-level systems occupied by fermions.
+Due to its symmetry property, this model can be easily solved even for many particles. Still, it contains interesting physical
+properties, like a quantum phase transition. Naturally, this model serves as a benchmark for testing
+many-body approaches to treat static and dynamical properties of complex many-body systems. Illustrations of the application
+of this model or its extensions will be shown during the talk in various fields. Due to its intrinsic 2-level system nature, it also appears useful
+to test quantum algorithms using qubits. A few examples of recent progress in quantum computers will be presented.
 
 ### Alfred Kirsch (CERMICS, Paris)
 
