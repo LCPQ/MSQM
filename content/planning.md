@@ -19,7 +19,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break    |
 |               |                 |
 | 11:00 - 11:30 | Eric Cancès - Model systems for discretization error analysis |
-| 11:30 - 12:00 | Diata Traore - TBA |
+| 11:30 - 12:00 | Diata Traore - One-dimensional model systems for understanding and development of the density-based basis-set correction method |
 | 12:00 - 12:30 | Timothee Audinet - One-dimensional model with delta-type interactions: Dirac’s equation with QED interactions |
 |               |                 |
 | 12:30 - 14:00 | Lunch break |
