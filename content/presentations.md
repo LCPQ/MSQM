@@ -178,7 +178,14 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 
 ### Diata Traore (QUBIT-P, Paris)
 
-**TBA**
+**One-dimensional model systems for understanding and development of the density-based basis-set correction method**
+
+In our recent works [1,2], we proposed a two-electron one-dimensional model to help the development of correlated methods for computation of accurate energies and molecular properties. For that, we represent the electron-electron interaction by simple formulations regarding the quantity of interest.
+On one side, a δ-dirac interaction combined with a Hermite-Gaussian basis-set helped development of methods for correlation energies and properties related to the ground-state solution. On the other side, we access bounded excited-states using a one-dimensional two-electron Hooke’s atom.
+We illustrate the applications of this model with our work on the density-based basis-set correction.
+
+[1] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 156, 044113 1- 13 (2022).
+[2] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 158, 234107 1-9 (2023).
 
 ### Lucia Reining (LSI, Palaiseau)
 
