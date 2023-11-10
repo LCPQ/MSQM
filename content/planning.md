@@ -52,7 +52,7 @@ draft: false
 |               |                 |
 | 10:30 - 11:00 | Coffee break    |
 |               |                 |
-| 11:00 - 11:30 | Alexander Tichai - TBA |
+| 11:00 - 11:30 | Alexander Tichai - Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed |
 | 11:30 - 12:00 | Denis Lacroix - Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing |
 | 12:00 - 12:30 | Pieter Van Isacker - Symmetries of nuclear models |
 |               |                 |
