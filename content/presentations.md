@@ -125,7 +125,21 @@ nucleus and discuss applications of relevance to current studies in nuclear stru
 
 ### Alexander Tichai (TU, Darmstadt)
 
-**TBA**
+**Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed**
+
+Atomic nuclei away from shell closures are characterized by strong static correlations that are (partly) linked to the emergence of superfluidity responsible for characteristic patterns in the nuclear phenomenology, e.g. odd-even mass staggering along isotopic chains. While the onset of superfluidity is accompanied by a breakdown of symmetry-conserving Hartree-Fock theory, the corresponding pairing correlations can be efficiently grasped by spontaneously breaking (and restoring) particle-number symmetry.
+
+In this talk I will discuss the Pairing Hamiltonian as a schematic model for superfluidity. Its exact solution for arbitrary system size is available from the seminal work of Richardson from the 1960s [1]. Since then it has been frequently used as a testbed in (nuclear) many-body theory.
+I will review a collection of frameworks including mean-field theory, many-body perturbation theory [2] and coupled cluster theory [3,4], and highlight the role of the symmetry restoration.
+Furthermore, I will present recent emulator developments that enable robust interpolation/extrapolation in the coupling value [5]. I will conclude with an overview of particle-number-broken many-body frameworks applied in realistic first-principles simulations of atomic nuclei as motivated by their success for the Pairing Hamiltonian [6,7].
+
+[1] R. Richardson, Phys. Lett. 3, 277 (1963)
+[2] D. Lacroix, D. Gambacurta,  Phys. Rev. C 86, 014306 (2012)
+[3] T. Henderson, G. E. Scuseria, J. Dukelsky, A. Signoracci, T. Duguet, Phys. Rev. C 89, 054305 (2014)
+[4] Y. Qiu, T. M. Henderson, J. Zhao, G. E. Scuseria, J. Chem. Phys. 147, 064111 (2017)
+[5] M. Companys Franzke, A. Tichai, K. Hebeler, A. Schwenk, arXiv:2302:08373 (2023)
+[6] A. Tichai, P. Arthuis, T. Duguet, H. Hergert, V. Somà, R. Roth, Phys. Lett. B 786, 195 (2018)
+[7] A. Tichai, P. Demol, T. Duguet, arXiv:2307:15619 (2023)
 
 ### Denis Lacroix (IN2P3, Orsay)
 
