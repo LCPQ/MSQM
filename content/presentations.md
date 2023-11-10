@@ -4,7 +4,7 @@ date: 2020-12-02 09:06
 draft: false
 ---
 
-# SUBMITTED ABSTRACTS
+# ORAL PRESENTATIONS
 
 ### Arjan Berger (LCPQ, Toulouse)
 
