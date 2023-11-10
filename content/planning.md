@@ -53,14 +53,14 @@ draft: false
 | 10:30 - 11:00 | Coffee break    |
 |               |                 |
 | 11:00 - 11:30 | Alexander Tichai - TBA |
-| 11:30 - 12:00 | Denis Lacroix - TBA |
+| 11:30 - 12:00 | Denis Lacroix - Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing |
 | 12:00 - 12:30 | Pieter Van Isacker - Symmetries of nuclear models |
 |               |                 |
 | 12:30 - 14:00 | Lunch break |
 |               |                 |
 | **SESSION 2** | Chair: Eleonora Luppi |
 |               |                 |
-| 14:00 - 14:30 | Cyril Martins - TBA |
+| 14:00 - 14:30 | Cyril Martins - An introduction to Dynamical Mean-Field Theory |
 | 14:30 - 15.00 | Alfred Kirsch - Some mathematical insights on DMFT on a Hubbard model |
 |               |                 |
 | 15:00 - 16:00 | Coffee break    |
