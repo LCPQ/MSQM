@@ -64,7 +64,42 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 
 ### Cyril Martins (LCPQ, Toulouse)
 
-**TBA**
+**An introduction to Dynamical Mean-Field Theory**
+
+The "famous" Hubbard model was conceived in the 1960s [1,2,3] to get
+insight into how the Coulomb interactions between conduction electrons
+(for instance, in 3d transition metals) may affect "their motion" on a
+lattice, and thus induce insulating or magnetic properties in a solid.
+In its simplest form, the one-orbital (or single-band) Hubbard model
+contains only a hopping term t between neighboring sites and an on-site
+repulsive interaction term U. And yet, key insights into the Mott
+metal-insulator transition (MIT) --  when the Coulomb repulsion can turn
+a system insulating [4] -- can already be obtained, especially since the
+advent of Dynamical Mean-Field Theory (DMFT) around 1990 [5,6].
+
+DMFT can be seen as a quantum many-body extension of classical
+mean-field approaches. Its power is the non-perturbative description of
+correlations, which allows treating arbitrary interaction strengths:
+DMFT can then capture both the Fermi liquid and the Mott insulator, and
+provides a spatial mean-field description of the transition between them
+[7].
+
+In this talk, we will provide an introduction to the DMFT formalism,
+explain how the method can be implemented in practice and discuss the
+MIT and the phase diagramm of the Hubbard model on an infinite Bethe
+lattice (where DMFT equations are exact).
+
+[1] J. Hubbard, Proc. R. Soc. London, Ser. A 276, 238 (1963); J.
+Hubbard, Proc. R. Soc. London, Ser. A 277, 237 (1964).
+[2] M.C. Gutzwiller, Phys. Rev. Lett. 10, 159 (1963)
+[3] J. Kanamori, Progress of Theoretical Physics 30, 275 (1963)
+[4] N. F. Mott and R. Peierls, Proceedings of the Physical Society 49,
+72 (1937); N. F. Mott, Proceedings of the Physical Society. Section A
+62, 416 (1949).
+[5] W. Metzner and D. Vollhardt, Phys. Rev. Lett. 62, 324 (1989).
+[6] A. Georges and G. Kotliar, Phys. Rev. B 45, 6479 (1992)
+[7] A. Georges, G. Kotliar, W. Krauth, and M. J. Rozenberg, Rev. Mod.
+Phys. 68, 13 (1996).
 
 ### Nicolas Laflorencie (LPT, Toulouse)
 
