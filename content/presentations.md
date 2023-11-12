@@ -31,9 +31,13 @@ chain.
 
 ### Peter Gill (USyd, Sydney)
 
-**TBA**
+**Finite Uniform Electron Gases**
 
+The Uniform Electron Gas (UEG), which was introduced almost a century ago by Thomas and Fermi, has become one of the most widely used fundamental models in quantum physics, and its properties have been studied by many of the leading figures in the field.  In its simplest form, it is characterised by a single parameter ρ — the mean number of electrons per unit volume — and its energy per unit volume and other properties are then computable functions of ρ.  One of its key weaknesses of the UEG is that it is an infinite system and this limits its accuracy when it is applied, for example, to finite molecular systems.
 
+In recent years, there has been interest in the Finite Uniform Electron Gases (FUEGs) that are created when a finite number of electrons are confined to a finite space in which all points are equivalent.  The simplest examples of this arise when n electrons are confined to a sphere and we have called this system n-ringium, n-spherium and n-glomium, respectively, when the sphere is 1-, 2- or 3-dimensional.  The Schrödinger equations for 2-ringium, 2-spherium and 2-glomium are quasi-exactly solvable and admit simple polynomial solutions for certain values of the spherical radius R.
+
+I will present a pedagogical introduction to FUEGs, highlight some of the key features of their exact solutions, and note some of the important questions that remain unanswered.
 
 ### Eric Cancès (CERMICS, Paris)
 
