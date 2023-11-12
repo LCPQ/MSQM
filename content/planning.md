@@ -31,7 +31,7 @@ draft: false
 |               |                 |
 | 15:00 - 16:00 | Coffee break    |
 |               |                 |
-| 16:00 - 16:30 | Peter Gill - TBA |
+| 16:00 - 16:30 | Peter Gill - Finite Uniform Electron Gases |
 | 16:30 - 17.00 | Mauricio Rodríguez-Mayorga - Relativistic effects on the two-electron Harmonium atom |
 | 17:00 - 17.30 | Michel Caffarel - Path integral for the quartic oscillator: An approximate analytic expression for the partition function |
 |               |                 |
