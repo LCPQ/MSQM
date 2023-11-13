@@ -47,7 +47,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Thomas Duguet |
 |               |                 |
-|  9:30 - 10:00 | Marie Labeye - TBA |
+|  9:30 - 10:00 | Marie Labeye - Time dependent models for strong field physics |
 | 10:00 - 10:30 | Umberto Morellini - Relativistic electrons coupled with Newtonian nuclear dynamics |
 |               |                 |
 | 10:30 - 11:00 | Coffee break    |
