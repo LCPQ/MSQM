@@ -61,7 +61,7 @@ Quick fingers first!
 1. Pepijn Demol (KU, Leuven) <!-- pepijn.demol@kuleuven.be --> 
 1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
 1. Leo Gaspard (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr POSTER -->
-1. Umberto Morellini (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr -->
+1. Umberto Morellini (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr TALK -->
 1. Samuel Aychet-Claisse (CEA, Saclay) <!-- samuel.aychet-claisse@universite-paris-saclay.fr -->
 1. Rajarshi Sinha Roy (ILM, Lyon) <!-- rajarshi.sinha-roy@univ-lyon1.fr --> 
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr POSTER -->
@@ -83,7 +83,7 @@ Quick fingers first!
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr TALK -->
 1. Gaspard Kemlin (LAMFA, Amiens) <!-- gaspard.kemlin@u-picardie.fr -->
 1. Long Meng (CERMICS, Paris) <!-- long.meng@enpc.fr POSTER -->
-1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr INVITED TALK -->
+1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr TALK -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
 1. Emmanuel Giner (LCT, Paris) <!-- giner.emmanuel@gmail.com -->
