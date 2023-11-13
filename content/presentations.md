@@ -207,8 +207,14 @@ We illustrate the applications of this model with our work on the density-based 
 
 ### Lucia Reining (LSI, Palaiseau)
 
-**TBA**
+**Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory**
 
+Many-body perturbation theory is today part of the standard toolbox of first principles calculations. Most often, first-or at most second-order approximations are used. Still, calculations for real materials can be very involved. Moreover, numerous open questions remain, not least because for both total energies and spectra we do not have enough thorough benchmarks. This explains why, for example, after decades of GW calculations the best choice for the Green's function G and for the screened Coulomb interaction W to build the GW self-energy is still a matter of debate.
+
+One way to contribute to filling this gap is the use of simple solvable models. Here, we will examine results for the symmetric half-filled Hubbard dimer, which allows us to cover the full range from vanishing to strong correlation. Our aim is to design an optimal way to use MBPT, remaining at low order, with a particular focus on the design of effective interactions. This will include combinations of MBPT with time-dependent density functional theory.
+
+We will illustrate how the simple model allows us to benchmark, and also to understand and to improve results. Finally, we will also discuss limitations of the extrapolation of results from the Hubbard dimer to real systems.
+ 
 ### David Gontier (CEREMADE, Paris) 
 
 **Phase transition in the Peierls / SSH model**
