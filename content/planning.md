@@ -13,7 +13,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Julien Toulouse |
 |               |                 |
-|  9:30 - 10:00 | Lucia Reining - TBA |
+|  9:30 - 10:00 | Lucia Reining - Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory |
 | 10:00 - 10:30 | Bruno Senjean - Site-occupation embedding theory and ensemble density functional theory on the Hubbard dimer
 |               |                 |
 | 10:30 - 11:00 | Coffee break    |
