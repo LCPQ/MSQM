@@ -237,7 +237,7 @@ In the first part of the talk we will consider a system of bosons with contact i
 
 ### Marie Labeye (ENS, Paris)
 
-**TBA**
+**Time dependent models for strong field physics**
 
 # POSTERS
 
@@ -295,19 +295,6 @@ Hybrid quantum-classical adaptive Variational Quantum Eigensolvers (VQE) already
 When a defect potential is placed in a material, the material rearranges and the total potential at long-range is screened by the electrons. In the finite temperature reduced Hartree-Fock model, small defects are completely screened [1]; the total change in potential decays exponentially. On the other hand, in metals at zero temperature, the presence of the Fermi-surface introduces non-analytic behaviour into the independent-particle susceptibility, leading to what are known as Friedel oscillations; the total potential oscillates and decays algebraically. In this talk, we will show how this rate of decay depends on the properties of the Fermi-surface. Joint work with Antoine Levitt. 
 
 [1] Antoine Levitt, Archive for Rational Mechanics and Analysis 238 (2020) 901–927 
-
-### Quentin Marecat (ICGM, Montpellier)
-
-**Recursive relations and quantum eigensolver algorithms within modified Schrieffer-Wolff transformations for the Hubbard dimer**
-
-The emergence of quantum computers has rekindled interest in solving the Hubbard model accurately for any dimension, size, regime, and filling. Several quantum algorithms have been proposed for this purpose, targeting both Noisy Intermediate Scale Quantum (NISQ) devices and long-term fault-tolerant quantum devices. These algorithms often employ hybrid classical/quantum strategies, such as the Variational Quantum Eigensolver (VQE), to optimize variational parameters on classical computers while applying parameterized unitary transformations on quantum devices.
-One promising approach is the unitary Van-Vleck (VV) similarity transformation[1]. It involves designing a unitary transformation that rotates the Hubbard Hamiltonian into an effective Hamiltonian in the low-energy subspace. This transformation can be used to obtain the ground state (or excited states) of the Hubbard model on a quantum computer. However, finding an explicit expression for the VV generator is often challenging, necessitating truncation or approximations such as the Schrieffer and Wolff (SW) transformation[2].
-In this talk, I introduce modifications of the SW generator for the Hubbard dimer, providing both variational and iterative approaches. These modified SW transformations approximate, or even per- form the desired block-diagonalization of the Hubbard dimer at infinite perturbation order, similar to the VV generator. Two quantum algorithms associated with these modified SW transformations for the Hubbard dimer are presented, demonstrating their effectiveness, especially in the strongly interacting regime[3].
-
-[1] I. Shavitt, and L. T. Redmon, "Quasidegenerate perturbation theories. A canonical van Vleck formalism and its relationship to other approaches.", The Journal of Chemical Physics 73, 5711- 5717. (1980).
-[2] J.R. Schrieffer, and P.A. Wolff, "Relation between the Anderson and kondo hamiltonians", Physical Review 149, 491 (1966).
-[3] Q. Marécat, B. Senjean and M. Saubanère, "Recursive relations and quantum eigensolver algorithms within modified Schrieffer- Wolff transformations for the Hubbard dimer.", Physical Review
-B 107, 155110 (2023).
 
 ### Long Meng (CERMICS, Paris) 
 
