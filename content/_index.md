@@ -6,6 +6,7 @@ draft: false
 
 # News
 
+* **Nov 2023:** The program is now available.
 * **Oct 2023:** Registration is open. Deadline for oral contributions: Nov 1st 2023.
 * **Sep 2023:** The MSQM 2024 website is up and running!
 
