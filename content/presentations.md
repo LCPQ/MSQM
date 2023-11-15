@@ -194,7 +194,7 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 [9] F. Cernatic, B. Senjean, et al. Top. Curr. Chem. (Z) 380, 4 (2022)
 [10] F. Cernatic, P-F. Loos, B. Senjean, and E. Fromager, in preparation.
 
-### Diata Traore (QUBIT-P, Paris)
+### Diata Traore (LCT, Paris)
 
 **One-dimensional model systems for understanding and development of the density-based basis-set correction method**
 
