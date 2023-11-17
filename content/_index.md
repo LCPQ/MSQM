@@ -61,7 +61,7 @@ Quick fingers first!
 1. Antoine Roux (CEA, Saclay) <!-- Antoine.roux@cea.fr POSTER --> 
 1. Pepijn Demol (KU, Leuven) <!-- pepijn.demol@kuleuven.be --> 
 1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
-1. Leo Gaspard (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr POSTER -->
+1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@irsamc.ups-tlse.fr POSTER -->
 1. Umberto Morellini (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr TALK -->
 1. Samuel Aychet-Claisse (CEA, Saclay) <!-- samuel.aychet-claisse@universite-paris-saclay.fr -->
 1. Rajarshi Sinha Roy (ILM, Lyon) <!-- rajarshi.sinha-roy@univ-lyon1.fr --> 
