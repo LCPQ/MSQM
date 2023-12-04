@@ -83,7 +83,6 @@ Quick fingers first!
 1. Bertin Many (LAUM, Le Mans) <!-- bertin.many_manda@univ-lemans.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr TALK -->
 1. Gaspard Kemlin (LAMFA, Amiens) <!-- gaspard.kemlin@u-picardie.fr -->
-1. Long Meng (CERMICS, Paris) <!-- long.meng@enpc.fr POSTER -->
 1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr TALK -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
