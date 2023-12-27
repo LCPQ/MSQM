@@ -9,7 +9,7 @@ draft: false
 | TIME          | EVENT           |
 | ------------- | ----------------|
 |               |                 |
-|  9:00 -  9:30 | Welcome coffee  |
+|  9:00 -  9:30 | Welcome         |
 |               |                 |
 | **SESSION 1** | Chair: Julien Toulouse |
 |               |                 |
@@ -43,7 +43,7 @@ draft: false
 | TIME          | EVENT           |
 | ------------- | ----------------|
 |               |                 |
-|  9:00 -  9:30 | Welcome coffee  |
+|  9:00 -  9:30 | Welcome         |
 |               |                 |
 | **SESSION 1** | Chair: Thomas Duguet |
 |               |                 |
