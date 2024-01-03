@@ -111,22 +111,6 @@ Phys. 68, 13 (1996).
 
 Despite our very good understanding of several models in one dimension involving interacting (Dirac) fermions, the case of Majorana fermions has remained relatively unexplored. This is probably due to the fact that Majorana particles are not found as elementary objects in nature. Nevertheless, 20 years ago, in the context of modeling p-wave superconducting wires, Alexei Kitaev proposed a very influential yet simple toy model in which unpaired Majorana fermions can appear as edge states. In this talk I will present the basics of this problem and explore the non-trivial effects of interactions in such a system, building on DMRG and self-consistent mean-field approaches. If time permits, I may also touch on disorder effects...
 
-### Pieter Van Isacker (GANIL, Caen)
-
-**Symmetries of nuclear models**
-
-Symmetry considerations have played an important role in the development of the interacting
-shell model as well as the geometric collective model of the atomic nucleus. On the one hand,
-the nuclear many-body problem, formulated in terms of interacting nucleons in a spherical
-harmonic oscillator, has two analytic solutions, namely if the interaction is of the pairing or of
-the quadrupole type, giving rise to an underlying SU(2) or SU(3) symmetry, respectively. On
-the other hand, the collective description of the nucleus by way of phonon-like excitations
-(bosons) of a liquid drop leads to the U(5) symmetry of a harmonic oscillator in five
-dimensions. A connection between both views of the nucleus can be obtained through the
-interacting boson model, whose spectrum-generating algebra is U(6).
-In this talk I will review historical developments of several symmetry models of the atomic
-nucleus and discuss applications of relevance to current studies in nuclear structure.
-
 ### Alexander Tichai (TU, Darmstadt)
 
 **Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed**
