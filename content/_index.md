@@ -73,7 +73,6 @@ Quick fingers first!
 1. Nicolas Laflorencie (LPT, Toulouse) <!-- n.laflorencie@gmail.com TALK -->
 1. Jack Thomas (LMO, Orsay) <!-- jack.thomas@universite-paris-saclay.fr POSTER -->
 1. Stefano Paggi (LPT, Toulouse) <!-- spaggi@irsamc.ups-tlse.fr -->
-1. Pieter Van Isacker (GANIL, Caen) <!-- isacker@ganil.fr TALK -->
 1. Alexander Tichai (TU, Darmstadt) <!-- a_tichai@theorie.ikp.physik.tu-darmstadt.de TALK -->
 1. Denis Lacroix (IN2P3, Orsay) <!-- lacroix@ijclab.in2p3.fr TALK -->
 1. Alfred Kirsch (CERMICS, Paris) <!-- alfred.kirsch@enpc.fr TALK -->
