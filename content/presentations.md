@@ -229,6 +229,8 @@ In the first part of the talk we will consider a system of bosons with contact i
 
 **Time dependent models for strong field physics**
 
+In this presentation, I will present several simple systems that allow us to describe complex time-dependent processes. In particular I will show that low dimensional systems are powerful tools to model the strong-field driven dynamics of atoms and molecules. Indeed, these model systems allow to directly solve the Time-Dependent Schrödinger Equation and therefore accurately represent highly non-linear processes such as tunnel ionization or high-order harmonic generation.
+
 # POSTERS
 
 ### Vitaly Gorelov (LSI, Palaiseau)
