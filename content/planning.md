@@ -54,7 +54,7 @@ draft: false
 |               |                 |
 | 11:00 - 11:30 | Alexander Tichai - Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed |
 | 11:30 - 12:00 | Denis Lacroix - Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing |
-| 12:00 - 12:30 | Antoine Levitt - Resonances: the example of the 1D chain |
+| 12:00 - 12:30 | David Gontier - Phase transition in the Peierls / SSH model |
 |               |                 |
 | 12:30 - 14:00 | Lunch break |
 |               |                 |
@@ -66,5 +66,5 @@ draft: false
 | 15:00 - 16:00 | Coffee break    |
 |               |                 |
 | 16:00 - 16:30 | Aleksandra Petkovic - Dissipative impurity dynamics in one dimensional quantum liquids |
-| 16:30 - 17.00 | David Gontier - Phase transition in the Peierls / SSH model |
+| 16:30 - 17.00 | Antoine Levitt - Resonances: the example of the 1D chain |
 |               |                 |
