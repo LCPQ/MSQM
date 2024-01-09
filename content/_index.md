@@ -78,7 +78,6 @@ Quick fingers first!
 1. Alfred Kirsch (CERMICS, Paris) <!-- alfred.kirsch@enpc.fr TALK -->
 1. Solal Perrin-Roussel (CERMICS, Paris) <!-- solal.perrin-roussel@ens-paris-saclay.fr -->
 1. Jeremy Morere (LPCT, Nancy) <!-- jeremy.morere@univ-lorraine.fr POSTER -->
-1. Baptiste Claudon (LCT, Paris) <!-- baptisteclaudon@free.fr -->
 1. Bertin Many (LAUM, Le Mans) <!-- bertin.many_manda@univ-lemans.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr TALK -->
 1. Gaspard Kemlin (LAMFA, Amiens) <!-- gaspard.kemlin@u-picardie.fr -->
