@@ -13,11 +13,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Julien Toulouse |
 |               |                 |
-<<<<<<< HEAD
-|  9:30 - 10:00 | Lucia Reining - TBA |
-=======
 |  9:30 - 10:00 | Lucia Reining - Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory |
->>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
 | 10:00 - 10:30 | Bruno Senjean - Site-occupation embedding theory and ensemble density functional theory on the Hubbard dimer
 |               |                 |
 | 10:30 - 11:00 | Coffee break & Posters    |
@@ -51,11 +47,7 @@ draft: false
 |               |                 |
 | **SESSION 1** | Chair: Thomas Duguet |
 |               |                 |
-<<<<<<< HEAD
-|  9:30 - 10:00 | Marie Labeye - TBA |
-=======
 |  9:30 - 10:00 | Marie Labeye - Time dependent models for strong field physics |
->>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
 | 10:00 - 10:30 | Umberto Morellini - Relativistic electrons coupled with Newtonian nuclear dynamics |
 |               |                 |
 | 10:30 - 11:00 | Coffee break & Posters   |
@@ -74,10 +66,5 @@ draft: false
 | 15:00 - 16:00 | Coffee break & Posters   |
 |               |                 |
 | 16:00 - 16:30 | Aleksandra Petkovic - Dissipative impurity dynamics in one dimensional quantum liquids |
-<<<<<<< HEAD
-| 16:30 - 17.00 | David Gontier - Phase transition in the Peierls / SSH model |
-| 17:00 - 17.30 | Antoine Levitt - Resonances: the example of the 1D chain |
-=======
 | 16:30 - 17.00 | Antoine Levitt - Resonances: the example of the 1D chain |
->>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
 |               |                 |

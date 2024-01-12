@@ -182,13 +182,9 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 
 **One-dimensional model systems for understanding and development of the density-based basis-set correction method**
 
-<<<<<<< HEAD
-### Lucia Reining (LSI, Palaiseau)
-=======
 In our recent works [1,2], we proposed a two-electron one-dimensional model to help the development of correlated methods for computation of accurate energies and molecular properties. For that, we represent the electron-electron interaction by simple formulations regarding the quantity of interest.
 On one side, a δ-dirac interaction combined with a Hermite-Gaussian basis-set helped development of methods for correlation energies and properties related to the ground-state solution. On the other side, we access bounded excited-states using a one-dimensional two-electron Hooke’s atom.
 We illustrate the applications of this model with our work on the density-based basis-set correction.
->>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
 
 [1] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 156, 044113 1- 13 (2022).
 [2] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 158, 234107 1-9 (2023).
@@ -231,13 +227,9 @@ In the first part of the talk we will consider a system of bosons with contact i
 
 ### Marie Labeye (ENS, Paris)
 
-<<<<<<< HEAD
-**TBA**
-=======
 **Time dependent models for strong field physics**
 
 In this presentation, I will present several simple systems that allow us to describe complex time-dependent processes. In particular I will show that low dimensional systems are powerful tools to model the strong-field driven dynamics of atoms and molecules. Indeed, these model systems allow to directly solve the Time-Dependent Schrödinger Equation and therefore accurately represent highly non-linear processes such as tunnel ionization or high-order harmonic generation.
->>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
 
 # POSTERS
 
