@@ -159,7 +159,7 @@ many-body approaches to treat static and dynamical properties of complex many-bo
 of this model or its extensions will be shown during the talk in various fields. Due to its intrinsic 2-level system nature, it also appears useful
 to test quantum algorithms using qubits. A few examples of recent progress in quantum computers will be presented.
 
-<img src="/img/DLacrois.jpg" width="600">
+<img src="/img/DLacroix.jpg" width="600">
 
 ### Alfred Kirsch (CERMICS, Paris)
 
