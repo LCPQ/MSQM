@@ -6,6 +6,7 @@ draft: false
 
 # News
 
+* **Nov 2023:** The program is now available.
 * **Oct 2023:** Registration is open. Deadline for oral contributions: Nov 1st 2023.
 * **Sep 2023:** The MSQM 2024 website is up and running!
 
@@ -60,31 +61,27 @@ Quick fingers first!
 1. Antoine Roux (CEA, Saclay) <!-- Antoine.roux@cea.fr POSTER --> 
 1. Pepijn Demol (KU, Leuven) <!-- pepijn.demol@kuleuven.be --> 
 1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr TALK -->
-1. Leo Gaspard (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr POSTER -->
-1. Umberto Morellini (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr -->
+1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@irsamc.ups-tlse.fr POSTER -->
+1. Umberto Morellini (CEREMADE, Paris) <!-- morellini@ceremade.dauphine.fr TALK -->
 1. Samuel Aychet-Claisse (CEA, Saclay) <!-- samuel.aychet-claisse@universite-paris-saclay.fr -->
 1. Rajarshi Sinha Roy (ILM, Lyon) <!-- rajarshi.sinha-roy@univ-lyon1.fr --> 
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr POSTER -->
 1. Cesar Feniou (QUBIT-P, Paris) <!-- cesarf@qubit-pharmaceuticals.com POSTER -->
 1. Eloise Letournel (ENPC, Paris) <!-- eloise.letournel@enpc.fr -->
 1. Ewen Lallinec (LMO, Orsay) <!-- ewen.lallinec@universite-paris-saclay.fr -->
-1. Diata Traore (QUBIT-P, Paris) <!-- diatatraore@yahoo.com TALK -->
+1. Diata Traore (LCT, Paris) <!-- diatatraore@yahoo.com TALK -->
 1. Nicolas Laflorencie (LPT, Toulouse) <!-- n.laflorencie@gmail.com TALK -->
 1. Jack Thomas (LMO, Orsay) <!-- jack.thomas@universite-paris-saclay.fr POSTER -->
 1. Stefano Paggi (LPT, Toulouse) <!-- spaggi@irsamc.ups-tlse.fr -->
-1. Pieter Van Isacker (GANIL, Caen) <!-- isacker@ganil.fr TALK -->
 1. Alexander Tichai (TU, Darmstadt) <!-- a_tichai@theorie.ikp.physik.tu-darmstadt.de TALK -->
 1. Denis Lacroix (IN2P3, Orsay) <!-- lacroix@ijclab.in2p3.fr TALK -->
 1. Alfred Kirsch (CERMICS, Paris) <!-- alfred.kirsch@enpc.fr TALK -->
 1. Solal Perrin-Roussel (CERMICS, Paris) <!-- solal.perrin-roussel@ens-paris-saclay.fr -->
 1. Jeremy Morere (LPCT, Nancy) <!-- jeremy.morere@univ-lorraine.fr POSTER -->
-1. Baptiste Claudon (LCT, Paris) <!-- baptisteclaudon@free.fr -->
 1. Bertin Many (LAUM, Le Mans) <!-- bertin.many_manda@univ-lemans.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr TALK -->
-1. Quentin Marecat (ICGM, Montpellier) <!-- quentin.marecat@umontpellier.fr POSTER -->
 1. Gaspard Kemlin (LAMFA, Amiens) <!-- gaspard.kemlin@u-picardie.fr -->
-1. Long Meng (CERMICS, Paris) <!-- long.meng@enpc.fr POSTER -->
-1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr INVITED TALK -->
+1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr TALK -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
 1. Emmanuel Giner (LCT, Paris) <!-- giner.emmanuel@gmail.com -->

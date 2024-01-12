@@ -4,7 +4,7 @@ date: 2020-12-02 09:06
 draft: false
 ---
 
-# SUBMITTED ABSTRACTS
+# ORAL PRESENTATIONS
 
 ### Arjan Berger (LCPQ, Toulouse)
 
@@ -31,9 +31,13 @@ chain.
 
 ### Peter Gill (USyd, Sydney)
 
-**How delocalised are the polyacenes?**
+**Finite Uniform Electron Gases**
 
-The polyacenes or $n$-acenes consist of $n$ linearly fused benzene rings, and include benzene itself, naphthalene, anthracene, tetracene, etc.  Their $\sigma$ electrons are well localised into C-C and C-H bonds and their $\pi$ electrons are delocalised over the entire molecule.  At least, that is what many of us teach our undergraduate students.  But is it true?  In this lecture, I will report calculations in which the $\pi$ electrons are artificially confined into localised orbitals and I will use the resulting energy increase — the localisation energy — as a measure of the degree to which the $\pi$ electrons want to be delocalised.  The results suggest that we may need to update our undergraduate lectures…
+The Uniform Electron Gas (UEG), which was introduced almost a century ago by Thomas and Fermi, has become one of the most widely used fundamental models in quantum physics, and its properties have been studied by many of the leading figures in the field.  In its simplest form, it is characterised by a single parameter ρ — the mean number of electrons per unit volume — and its energy per unit volume and other properties are then computable functions of ρ.  One of its key weaknesses of the UEG is that it is an infinite system and this limits its accuracy when it is applied, for example, to finite molecular systems.
+
+In recent years, there has been interest in the Finite Uniform Electron Gases (FUEGs) that are created when a finite number of electrons are confined to a finite space in which all points are equivalent.  The simplest examples of this arise when n electrons are confined to a sphere and we have called this system n-ringium, n-spherium and n-glomium, respectively, when the sphere is 1-, 2- or 3-dimensional.  The Schrödinger equations for 2-ringium, 2-spherium and 2-glomium are quasi-exactly solvable and admit simple polynomial solutions for certain values of the spherical radius R.
+
+I will present a pedagogical introduction to FUEGs, highlight some of the key features of their exact solutions, and note some of the important questions that remain unanswered.
 
 ### Eric Cancès (CERMICS, Paris)
 
@@ -64,7 +68,42 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 
 ### Cyril Martins (LCPQ, Toulouse)
 
-**TBA**
+**An introduction to Dynamical Mean-Field Theory**
+
+The "famous" Hubbard model was conceived in the 1960s [1,2,3] to get
+insight into how the Coulomb interactions between conduction electrons
+(for instance, in 3d transition metals) may affect "their motion" on a
+lattice, and thus induce insulating or magnetic properties in a solid.
+In its simplest form, the one-orbital (or single-band) Hubbard model
+contains only a hopping term t between neighboring sites and an on-site
+repulsive interaction term U. And yet, key insights into the Mott
+metal-insulator transition (MIT) --  when the Coulomb repulsion can turn
+a system insulating [4] -- can already be obtained, especially since the
+advent of Dynamical Mean-Field Theory (DMFT) around 1990 [5,6].
+
+DMFT can be seen as a quantum many-body extension of classical
+mean-field approaches. Its power is the non-perturbative description of
+correlations, which allows treating arbitrary interaction strengths:
+DMFT can then capture both the Fermi liquid and the Mott insulator, and
+provides a spatial mean-field description of the transition between them
+[7].
+
+In this talk, we will provide an introduction to the DMFT formalism,
+explain how the method can be implemented in practice and discuss the
+MIT and the phase diagramm of the Hubbard model on an infinite Bethe
+lattice (where DMFT equations are exact).
+
+[1] J. Hubbard, Proc. R. Soc. London, Ser. A 276, 238 (1963); J.
+Hubbard, Proc. R. Soc. London, Ser. A 277, 237 (1964).
+[2] M.C. Gutzwiller, Phys. Rev. Lett. 10, 159 (1963)
+[3] J. Kanamori, Progress of Theoretical Physics 30, 275 (1963)
+[4] N. F. Mott and R. Peierls, Proceedings of the Physical Society 49,
+72 (1937); N. F. Mott, Proceedings of the Physical Society. Section A
+62, 416 (1949).
+[5] W. Metzner and D. Vollhardt, Phys. Rev. Lett. 62, 324 (1989).
+[6] A. Georges and G. Kotliar, Phys. Rev. B 45, 6479 (1992)
+[7] A. Georges, G. Kotliar, W. Krauth, and M. J. Rozenberg, Rev. Mod.
+Phys. 68, 13 (1996).
 
 ### Nicolas Laflorencie (LPT, Toulouse)
 
@@ -72,29 +111,34 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 
 Despite our very good understanding of several models in one dimension involving interacting (Dirac) fermions, the case of Majorana fermions has remained relatively unexplored. This is probably due to the fact that Majorana particles are not found as elementary objects in nature. Nevertheless, 20 years ago, in the context of modeling p-wave superconducting wires, Alexei Kitaev proposed a very influential yet simple toy model in which unpaired Majorana fermions can appear as edge states. In this talk I will present the basics of this problem and explore the non-trivial effects of interactions in such a system, building on DMRG and self-consistent mean-field approaches. If time permits, I may also touch on disorder effects...
 
-### Pieter Van Isacker (GANIL, Caen)
-
-**Symmetries of nuclear models**
-
-Symmetry considerations have played an important role in the development of the interacting
-shell model as well as the geometric collective model of the atomic nucleus. On the one hand,
-the nuclear many-body problem, formulated in terms of interacting nucleons in a spherical
-harmonic oscillator, has two analytic solutions, namely if the interaction is of the pairing or of
-the quadrupole type, giving rise to an underlying SU(2) or SU(3) symmetry, respectively. On
-the other hand, the collective description of the nucleus by way of phonon-like excitations
-(bosons) of a liquid drop leads to the U(5) symmetry of a harmonic oscillator in five
-dimensions. A connection between both views of the nucleus can be obtained through the
-interacting boson model, whose spectrum-generating algebra is U(6).
-In this talk I will review historical developments of several symmetry models of the atomic
-nucleus and discuss applications of relevance to current studies in nuclear structure.
-
 ### Alexander Tichai (TU, Darmstadt)
 
-**TBA**
+**Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed**
+
+Atomic nuclei away from shell closures are characterized by strong static correlations that are (partly) linked to the emergence of superfluidity responsible for characteristic patterns in the nuclear phenomenology, e.g. odd-even mass staggering along isotopic chains. While the onset of superfluidity is accompanied by a breakdown of symmetry-conserving Hartree-Fock theory, the corresponding pairing correlations can be efficiently grasped by spontaneously breaking (and restoring) particle-number symmetry.
+
+In this talk I will discuss the Pairing Hamiltonian as a schematic model for superfluidity. Its exact solution for arbitrary system size is available from the seminal work of Richardson from the 1960s [1]. Since then it has been frequently used as a testbed in (nuclear) many-body theory.
+I will review a collection of frameworks including mean-field theory, many-body perturbation theory [2] and coupled cluster theory [3,4], and highlight the role of the symmetry restoration.
+Furthermore, I will present recent emulator developments that enable robust interpolation/extrapolation in the coupling value [5]. I will conclude with an overview of particle-number-broken many-body frameworks applied in realistic first-principles simulations of atomic nuclei as motivated by their success for the Pairing Hamiltonian [6,7].
+
+[1] R. Richardson, Phys. Lett. 3, 277 (1963)
+[2] D. Lacroix, D. Gambacurta,  Phys. Rev. C 86, 014306 (2012)
+[3] T. Henderson, G. E. Scuseria, J. Dukelsky, A. Signoracci, T. Duguet, Phys. Rev. C 89, 054305 (2014)
+[4] Y. Qiu, T. M. Henderson, J. Zhao, G. E. Scuseria, J. Chem. Phys. 147, 064111 (2017)
+[5] M. Companys Franzke, A. Tichai, K. Hebeler, A. Schwenk, arXiv:2302:08373 (2023)
+[6] A. Tichai, P. Arthuis, T. Duguet, H. Hergert, V. Somà, R. Roth, Phys. Lett. B 786, 195 (2018)
+[7] A. Tichai, P. Demol, T. Duguet, arXiv:2307:15619 (2023)
 
 ### Denis Lacroix (IN2P3, Orsay)
 
-**TBA**
+**Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing**
+
+I will discuss the basic ingredient of the Lipkin model consisting of a set of permutation invariant 2-level systems occupied by fermions.
+Due to its symmetry property, this model can be easily solved even for many particles. Still, it contains interesting physical
+properties, like a quantum phase transition. Naturally, this model serves as a benchmark for testing
+many-body approaches to treat static and dynamical properties of complex many-body systems. Illustrations of the application
+of this model or its extensions will be shown during the talk in various fields. Due to its intrinsic 2-level system nature, it also appears useful
+to test quantum algorithms using qubits. A few examples of recent progress in quantum computers will be presented.
 
 ### Alfred Kirsch (CERMICS, Paris)
 
@@ -134,14 +178,31 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 [9] F. Cernatic, B. Senjean, et al. Top. Curr. Chem. (Z) 380, 4 (2022)
 [10] F. Cernatic, P-F. Loos, B. Senjean, and E. Fromager, in preparation.
 
-### Diata Traore (QUBIT-P, Paris)
+### Diata Traore (LCT, Paris)
 
-**TBA**
+**One-dimensional model systems for understanding and development of the density-based basis-set correction method**
+
+<<<<<<< HEAD
+### Lucia Reining (LSI, Palaiseau)
+=======
+In our recent works [1,2], we proposed a two-electron one-dimensional model to help the development of correlated methods for computation of accurate energies and molecular properties. For that, we represent the electron-electron interaction by simple formulations regarding the quantity of interest.
+On one side, a δ-dirac interaction combined with a Hermite-Gaussian basis-set helped development of methods for correlation energies and properties related to the ground-state solution. On the other side, we access bounded excited-states using a one-dimensional two-electron Hooke’s atom.
+We illustrate the applications of this model with our work on the density-based basis-set correction.
+>>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
+
+[1] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 156, 044113 1- 13 (2022).
+[2] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 158, 234107 1-9 (2023).
 
 ### Lucia Reining (LSI, Palaiseau)
 
-**TBA**
+**Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory**
 
+Many-body perturbation theory is today part of the standard toolbox of first principles calculations. Most often, first-or at most second-order approximations are used. Still, calculations for real materials can be very involved. Moreover, numerous open questions remain, not least because for both total energies and spectra we do not have enough thorough benchmarks. This explains why, for example, after decades of GW calculations the best choice for the Green's function G and for the screened Coulomb interaction W to build the GW self-energy is still a matter of debate.
+
+One way to contribute to filling this gap is the use of simple solvable models. Here, we will examine results for the symmetric half-filled Hubbard dimer, which allows us to cover the full range from vanishing to strong correlation. Our aim is to design an optimal way to use MBPT, remaining at low order, with a particular focus on the design of effective interactions. This will include combinations of MBPT with time-dependent density functional theory.
+
+We will illustrate how the simple model allows us to benchmark, and also to understand and to improve results. Finally, we will also discuss limitations of the extrapolation of results from the Hubbard dimer to real systems.
+ 
 ### David Gontier (CEREMADE, Paris) 
 
 **Phase transition in the Peierls / SSH model**
@@ -170,7 +231,13 @@ In the first part of the talk we will consider a system of bosons with contact i
 
 ### Marie Labeye (ENS, Paris)
 
+<<<<<<< HEAD
 **TBA**
+=======
+**Time dependent models for strong field physics**
+
+In this presentation, I will present several simple systems that allow us to describe complex time-dependent processes. In particular I will show that low dimensional systems are powerful tools to model the strong-field driven dynamics of atoms and molecules. Indeed, these model systems allow to directly solve the Time-Dependent Schrödinger Equation and therefore accurately represent highly non-linear processes such as tunnel ionization or high-order harmonic generation.
+>>>>>>> fd255cb74cb4737654f93db6ac20e687e83f15fc
 
 # POSTERS
 
@@ -184,13 +251,17 @@ In the first part of the talk we will consider a system of bosons with contact i
 
 ### Jeremy Morere (LPCT, Nancy) 
 
-**TBA**
+**Arbitrariness of the degree of complexity of superoperators in the EOM formulation of TD-DFT objects**
 
-When we are interested in describing the reorganization of electronic structure induced by the interaction between radiation and matter, two objects are particularly crucial : the one-body difference density matrix and the one-body transition density matrix. The primary motivation that led us to focus on these two matrices is as follows : the first one allows us to calculate the expectation value of one-body operators between two electronic states without needing these two states directly — for example, in TD-DFT, we do not explicitly access the excited states. The second one provides us with expected values associated with transition properties— for example, if the chosen operator is the electron's position operator, the associated quantity is the transition dipole moment, the square of which is directly proportional to the oscillator strength.
+When describing the reorganization of electronic structure induced by the interaction between light and matter, two objects are particularly crucial: the one-body difference density matrix and the one-body transition density matrix. The primary motivation that led us to focus on these two matrices is as follows: the first one allows us to calculate the difference in expectation value of one-body operators between two electronic states without needing these two states explicitly. The second one provides us expectation values associated with transition properties.
+If we had access to the exact eigenstates of the stationary Hamiltonian, we could write an exact transition operator. In the equation-of-motion formalism (EOM), it is possible to prove that an arbitrary number of nested commutators, called superoperators, involving this exact operator and second quantization operators allows us to write the exact expression of our two density matrices of interest.
+As time-dependent density-functional theory method (TD-DFT) cannot give access to the exact transition operator, writing an approximate expression for these matrices involves the use of a substitution operator. This operator is inspired by the operator that generates the central equation of the Random Phase Approximation method. The use of superoperators in TD-DFT is enabled by the structure of its fundamental equation and its physical interpretation. Interestingly, there exists a structural and interpretational identity between the fundamental equations of TD-DFT and Bethe-Salpeter equation (BSE) methods. The development carried out with the substitution operator in TD-DFT is also applicable to BSE.
+We intend to demonstrate and justify that, in this specific context, the choice of the complexity degree of the superoperators might not be arbitrary — unlike with an exact transition operator — and require a minimum degree of complexity for superoperators, in order to express the two density matrices.
 
-If we had access to the exact eigenstates of the stationary Hamiltonian, we could write an exact transition operator. It is possible to demonstrate that a combination of arbitrary complexity degrees of this operator with second quantization operators allows us to write the exact expression of our two density matrices of interest.
 
-As TD-DFT method do not allow the formulation of such operator, writing an approximate expression for these objects involves the use of a substitution operator. This operator is inspired by the operator that generates the central equation of the "Random Phase Approximation" method. We intend to demonstrate and justify why the choice of the complexity degree of the superoperators that can be involved in writing the expression of the two density matrices is not arbitrary.
+[1] Thibaud Etienne. A comprehensive, self-contained derivation of the one-body density matrices from single-reference excited-state calculation methods using the equation-of-motion formalism, arxiv repository 1811.08849v15. 2018.
+[2] Andrei Ipatov, Felipe Cordova, Lo ̈ıc Joubert Doriol, and Mark E. Casida. Excited-state spin- contamination in time-dependent density-functional theory for molecules with open-shell ground states. Journal of Molecular Structure: THEOCHEM, 914(1-3):60–73, November 2009.
+[3] Xavier Blase, Ivan Duchemin, and Denis Jacquemin. The Bethe–Salpeter equation in chemistry: relations with TD-DFT, applications and challenges. Chemical Society Reviews, 47(3):1022–1043, 2018.
 
 ### Leo Gaspard (LCPQ, Toulouse)
 
@@ -224,19 +295,6 @@ Hybrid quantum-classical adaptive Variational Quantum Eigensolvers (VQE) already
 When a defect potential is placed in a material, the material rearranges and the total potential at long-range is screened by the electrons. In the finite temperature reduced Hartree-Fock model, small defects are completely screened [1]; the total change in potential decays exponentially. On the other hand, in metals at zero temperature, the presence of the Fermi-surface introduces non-analytic behaviour into the independent-particle susceptibility, leading to what are known as Friedel oscillations; the total potential oscillates and decays algebraically. In this talk, we will show how this rate of decay depends on the properties of the Fermi-surface. Joint work with Antoine Levitt. 
 
 [1] Antoine Levitt, Archive for Rational Mechanics and Analysis 238 (2020) 901–927 
-
-### Quentin Marecat (ICGM, Montpellier)
-
-**Recursive relations and quantum eigensolver algorithms within modified Schrieffer-Wolff transformations for the Hubbard dimer**
-
-The emergence of quantum computers has rekindled interest in solving the Hubbard model accurately for any dimension, size, regime, and filling. Several quantum algorithms have been proposed for this purpose, targeting both Noisy Intermediate Scale Quantum (NISQ) devices and long-term fault-tolerant quantum devices. These algorithms often employ hybrid classical/quantum strategies, such as the Variational Quantum Eigensolver (VQE), to optimize variational parameters on classical computers while applying parameterized unitary transformations on quantum devices.
-One promising approach is the unitary Van-Vleck (VV) similarity transformation[1]. It involves designing a unitary transformation that rotates the Hubbard Hamiltonian into an effective Hamiltonian in the low-energy subspace. This transformation can be used to obtain the ground state (or excited states) of the Hubbard model on a quantum computer. However, finding an explicit expression for the VV generator is often challenging, necessitating truncation or approximations such as the Schrieffer and Wolff (SW) transformation[2].
-In this talk, I introduce modifications of the SW generator for the Hubbard dimer, providing both variational and iterative approaches. These modified SW transformations approximate, or even per- form the desired block-diagonalization of the Hubbard dimer at infinite perturbation order, similar to the VV generator. Two quantum algorithms associated with these modified SW transformations for the Hubbard dimer are presented, demonstrating their effectiveness, especially in the strongly interacting regime[3].
-
-[1] I. Shavitt, and L. T. Redmon, "Quasidegenerate perturbation theories. A canonical van Vleck formalism and its relationship to other approaches.", The Journal of Chemical Physics 73, 5711- 5717. (1980).
-[2] J.R. Schrieffer, and P.A. Wolff, "Relation between the Anderson and kondo hamiltonians", Physical Review 149, 491 (1966).
-[3] Q. Marécat, B. Senjean and M. Saubanère, "Recursive relations and quantum eigensolver algorithms within modified Schrieffer- Wolff transformations for the Hubbard dimer.", Physical Review
-B 107, 155110 (2023).
 
 ### Long Meng (CERMICS, Paris) 
 
