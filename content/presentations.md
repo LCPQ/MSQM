@@ -15,6 +15,8 @@ In the one-point model we consider a zero-dimensional space. The advantage of th
 [1] J.A. Berger et al., New J. Phys. 16 113025 (2014)
 [2] A. Stan et al., New J. Phys. 17 093045 (2015)
 
+<img src="/img/ABerger.jpg" width="600">
+
 ### Michel Caffarel (LCPQ, Toulouse)
 
 **Path integral for the quartic oscillator: An approximate analytic expression for the partition function**
@@ -29,6 +31,8 @@ I will discuss the concept of quantum mechanical resonances and
 numerical methods to compute them, starting from the example of the 1D
 chain.
 
+<img src="/img/ALevitt.jpg" width="600">
+
 ### Peter Gill (USyd, Sydney)
 
 **Finite Uniform Electron Gases**
@@ -39,6 +43,8 @@ In recent years, there has been interest in the Finite Uniform Electron Gases (F
 
 I will present a pedagogical introduction to FUEGs, highlight some of the key features of their exact solutions, and note some of the important questions that remain unanswered.
 
+<img src="/img/PGill.jpg" width="600">
+
 ### Eric Cancès (CERMICS, Paris)
 
 **Model systems for discretization error analysis**
@@ -47,6 +53,8 @@ In the first part of my talk, I will present a detailed analysis of the famous e
 
 [1] E. Cancès and G. Dusson, Discretization error cancellation in electronic structure calculation: toward a quantitative study, M2AN 51 (2017) 1617–1636
 [2] E. Cancès, R. Coyaud and L.R. Scott, Van der Waals interactions between two hydrogen atoms: the next orders, Comm. Math. Sci. 21 (2023) 915–948.
+
+<img src="/img/ECances.jpg" width="600">
 
 ### Timothee Audinet (LCT, Paris)
 
@@ -65,6 +73,8 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 [5] P. Chaix and D. Iracane, J. Phys. B 22, 3791 (1989).
 [6] C. Hainzl, M. Lewin, E. Séré and J. P. Solovej, Phys. Rev. A 76, 052104 (2007).
 [7] J. Toulouse, SciPost Chem. 1, 2 (2021).
+
+<img src="/img/TAudinet.jpg" width="600">
 
 ### Cyril Martins (LCPQ, Toulouse)
 
@@ -105,11 +115,15 @@ Hubbard, Proc. R. Soc. London, Ser. A 277, 237 (1964).
 [7] A. Georges, G. Kotliar, W. Krauth, and M. J. Rozenberg, Rev. Mod.
 Phys. 68, 13 (1996).
 
+<img src="/img/CMartins.jpg" width="600">
+
 ### Nicolas Laflorencie (LPT, Toulouse)
 
 **Topological and quantum critical properties of the interacting Majorana chain model**
 
 Despite our very good understanding of several models in one dimension involving interacting (Dirac) fermions, the case of Majorana fermions has remained relatively unexplored. This is probably due to the fact that Majorana particles are not found as elementary objects in nature. Nevertheless, 20 years ago, in the context of modeling p-wave superconducting wires, Alexei Kitaev proposed a very influential yet simple toy model in which unpaired Majorana fermions can appear as edge states. In this talk I will present the basics of this problem and explore the non-trivial effects of interactions in such a system, building on DMRG and self-consistent mean-field approaches. If time permits, I may also touch on disorder effects...
+
+<img src="/img/NLaflorencie.jpg" width="600">
 
 ### Alexander Tichai (TU, Darmstadt)
 
@@ -129,6 +143,8 @@ Furthermore, I will present recent emulator developments that enable robust inte
 [6] A. Tichai, P. Arthuis, T. Duguet, H. Hergert, V. Somà, R. Roth, Phys. Lett. B 786, 195 (2018)
 [7] A. Tichai, P. Demol, T. Duguet, arXiv:2307:15619 (2023)
 
+<img src="/img/ATichai.jpg" width="600">
+
 ### Denis Lacroix (IN2P3, Orsay)
 
 **Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing**
@@ -139,6 +155,8 @@ properties, like a quantum phase transition. Naturally, this model serves as a b
 many-body approaches to treat static and dynamical properties of complex many-body systems. Illustrations of the application
 of this model or its extensions will be shown during the talk in various fields. Due to its intrinsic 2-level system nature, it also appears useful
 to test quantum algorithms using qubits. A few examples of recent progress in quantum computers will be presented.
+
+<img src="/img/DLacrois.jpg" width="600">
 
 ### Alfred Kirsch (CERMICS, Paris)
 
@@ -152,6 +170,8 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 [4] Walter Metzner and Dieter Vollhardt. Correlated Lattice Fermions in $d = \infty$ Dimensions. Physical Review Letters, 62(3):324–327, January 1989.
 [5] Olivier Parcollet, Michel Ferrero, Thomas Ayral, Hartmut Hafermann, Igor Krivenko, Laura Messio, and Priyanka Seth. TRIQS: A toolbox for research on interacting quantum systems. Computer Physics Communications, 196:398–415, November 2015.
 
+<img src="/img/AKirsch.jpg" width="600">
+
 ### Umberto Morellini (CEREMADE, Paris)
 
 **Relativistic electrons coupled with Newtonian nuclear dynamics**
@@ -159,6 +179,8 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 In this talk, we consider a model consisting of differential equations coupling the time evolution of a finite number of relativistic electrons with the Newtonian dynamics of finitely many nuclei, where the former is described by the Bogoliubov-Dirac-Fock (BDF) equation of quantum electrodynamics (QED). The Cauchy problem for this model is addressed, proving a global well-posedness result. We believe that this system can be seen as a first step in the study of molecular dynamics phenomena, when both relativistic and quantum effects have to be taken into account [1].
 
 [1] https://arxiv.org/abs/2310.13501
+
+<img src="/img/UMorellini.jpg" width="600">
 
 ### Bruno Senjean (ICGM, Montpellier)
 
@@ -178,6 +200,8 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 [9] F. Cernatic, B. Senjean, et al. Top. Curr. Chem. (Z) 380, 4 (2022)
 [10] F. Cernatic, P-F. Loos, B. Senjean, and E. Fromager, in preparation.
 
+<img src="/img/BSenjean.jpg" width="600">
+
 ### Diata Traore (LCT, Paris)
 
 **One-dimensional model systems for understanding and development of the density-based basis-set correction method**
@@ -189,6 +213,8 @@ We illustrate the applications of this model with our work on the density-based 
 [1] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 156, 044113 1- 13 (2022).
 [2] D. Traore, E. Giner, J. Toulouse, Journal of Chemical Physics 158, 234107 1-9 (2023).
 
+<img src="/img/DTraore.jpg" width="600">
+
 ### Lucia Reining (LSI, Palaiseau)
 
 **Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory**
@@ -198,12 +224,16 @@ Many-body perturbation theory is today part of the standard toolbox of first pri
 One way to contribute to filling this gap is the use of simple solvable models. Here, we will examine results for the symmetric half-filled Hubbard dimer, which allows us to cover the full range from vanishing to strong correlation. Our aim is to design an optimal way to use MBPT, remaining at low order, with a particular focus on the design of effective interactions. This will include combinations of MBPT with time-dependent density functional theory.
 
 We will illustrate how the simple model allows us to benchmark, and also to understand and to improve results. Finally, we will also discuss limitations of the extrapolation of results from the Hubbard dimer to real systems.
- 
+
+<img src="/img/LReining.jpg" width="600">
+
 ### David Gontier (CEREMADE, Paris) 
 
 **Phase transition in the Peierls / SSH model**
 
 The Peierls/SSH model is a simple one-dimensional model used to describe molecular chains such as polyacetylene. In this model, we consider a distortion energy between the atoms, and an electronic quantum energy given by a tight-binding model. Peierls showed that it was energetically favorable for the chain to dimerize (hence the structure …=C-C=C-… of polyacetylene). In this talk, we will study the phase diagram of this model, when we add temperature. We show the existence of a critical temperature above which the chain no longer dimerizes. Work in collaboration with Adéchola Kouandé and Éric Séré.
+
+<img src="/img/DGontier.jpg" width="600">
 
 ### Mauricio Rodríguez-Mayorga (Neel Institute, Grenoble)
 
@@ -219,17 +249,23 @@ In this work, we explore numerically the role of relativistic effects on the two
 [5] Rodríguez-Mayorga, M., Ramos-Cordoba, E., Via-Nadal, M., Piris, M., & Matito, E. (2017). Comprehensive benchmarking of density matrix functional approximations. Phys. Chem. Chem. Phys., 19, 24029.
 [6] Jana, S., Behera, S. K., Śmiga, S., Constantin, L. A., & Samal, P. (2021). Improving the applicability of the Pauli kinetic energy density based semilocal functional for solids. New J. Phys., 23, 063007.
 
+<img src="/img/MRodriguez.jpg" width="600">
+
 ### Aleksandra Petkovic (LPT, Toulouse)
 
 **Dissipative impurity dynamics in one dimensional quantum liquids**
 
 In the first part of the talk we will consider a system of bosons with contact interaction in one dimension, the Lieb-Liniger model. Then, we will study the motion of a slow impurity (a foreign particle) through this system. While at zero temperature the impurity motion is frictionless, at low temperatures finite friction appears due to scattering off thermally excited quasiparticles. We will derive analytical results for the friction force within a microscopic theory and uncover interesting regimes of the impurity dynamics.
 
+<img src="/img/APetkovic.jpg" width="600">
+
 ### Marie Labeye (ENS, Paris)
 
 **Time dependent models for strong field physics**
 
 In this presentation, I will present several simple systems that allow us to describe complex time-dependent processes. In particular I will show that low dimensional systems are powerful tools to model the strong-field driven dynamics of atoms and molecules. Indeed, these model systems allow to directly solve the Time-Dependent Schrödinger Equation and therefore accurately represent highly non-linear processes such as tunnel ionization or high-order harmonic generation.
+
+<img src="/img/MLabeye.jpg" width="600">
 
 # POSTERS
 
