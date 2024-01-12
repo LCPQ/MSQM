@@ -90,6 +90,9 @@ Quick fingers first!
 1. Lucia Reining (LSI, Palaiseau) <!-- lucia.reining@polytechnique.fr TALK -->
 1. Marie Labeye (ENS, Paris) <!-- marie.labeye@ens.psl.eu TALK -->
 
+<img src="/img/resto1.jpg" width="600">
+<img src="/img/resto2.jpg" width="600">
+
 # Location
 
 The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
