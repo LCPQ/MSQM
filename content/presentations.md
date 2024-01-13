@@ -8,7 +8,7 @@ draft: false
 
 ### Arjan Berger (LCPQ, Toulouse)
 
-[The one-point model: solving equations in pointland]("../static/presentations/ABerger.pdf")
+<a href=/presentations/ABerger.pdf">The one-point model: solving equations in pointland</a>
 
 In the one-point model we consider a zero-dimensional space. The advantage of this model is that the many-body equations simplify enormously and can be solved analytically. In particular, the one-body Greenʼs function is a solution of a set of functional integro-differential equations, which relate the one-particle Greenʼs function to its functional derivative with respect to an external potential [1]. In the one-point model, these equations become ordinary differential equations that are solvable with standard techniques.  This allows us to analyze several aspects of these equations as well as of standard methods for determining the one-body Greenʼs function, such as GW, that are important for real systems. For example, it allows us to investigate the problem of unphysical solutions of the many-body equations [2].
 
@@ -40,7 +40,7 @@ chain.
 
 ### Peter Gill (USyd, Sydney)
 
-[Finite Uniform Electron Gases]("presentations/PGill.pdf)
+<a href="/presentations/PGill.pdf">Finite Uniform Electron Gases</a>
 
 The Uniform Electron Gas (UEG), which was introduced almost a century ago by Thomas and Fermi, has become one of the most widely used fundamental models in quantum physics, and its properties have been studied by many of the leading figures in the field.  In its simplest form, it is characterised by a single parameter ρ — the mean number of electrons per unit volume — and its energy per unit volume and other properties are then computable functions of ρ.  One of its key weaknesses of the UEG is that it is an infinite system and this limits its accuracy when it is applied, for example, to finite molecular systems.
 
@@ -152,7 +152,7 @@ Furthermore, I will present recent emulator developments that enable robust inte
 
 ### Denis Lacroix (IN2P3, Orsay)
 
-[Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing]("presentations/DLacroix.pdf)
+<a href="/presentations/DLacroix.pdf">Exploring the richness of the Lipkin Model and its extensions: from nuclear to neutrino physics and quantum computing</a>
 
 I will discuss the basic ingredient of the Lipkin model consisting of a set of permutation invariant 2-level systems occupied by fermions.
 Due to its symmetry property, this model can be easily solved even for many particles. Still, it contains interesting physical
@@ -189,7 +189,7 @@ In this talk, we consider a model consisting of differential equations coupling 
 
 ### Bruno Senjean (ICGM, Montpellier)
 
-[Site-occupation embedding theory and ensemble density functional theory on the Hubbard dimer]("presentations/BSenjean.pdf)
+<a href="/presentations/BSenjean.pdf">Site-occupation embedding theory and ensemble density functional theory on the Hubbard dimer</a>
 
 Describing the electronic correlation effects is a key challenge in quantum chemistry and condensed matter physics. Indeed, there is always a trade-off between the accuracy and the computational cost: while wavefunction-based methods are expensive but accurate, reduced-quantity-based methods (such as density functional theory (DFT)) are cheaper but more proned to errors due to approximations of their energy functionals. The holy grail method remains to be found, thus motivating new methodological developments on laboratory-models, due to both their simplicity as well as their physical richness.
 In this talk, I will discuss two different in-principle-exact methods, one falling in the scope of embedding approaches that combine a many-body wavefunction with density functionals [1-4], and another that is an extension of density functional theory for the ensembles [5]. I will particularly focus on their implementation on the Hubbard dimer.
@@ -209,7 +209,7 @@ The second approach, called ensemble-DFT, allows the direct extraction of quanti
 
 ### Diata Traore (LCT, Paris)
 
-[One-dimensional model systems for understanding and development of the density-based basis-set correction method]("presentations/DTraore.pdf)
+<a href="/presentations/DTraore.pdf">One-dimensional model systems for understanding and development of the density-based basis-set correction method</a>
 
 In our recent works [1,2], we proposed a two-electron one-dimensional model to help the development of correlated methods for computation of accurate energies and molecular properties. For that, we represent the electron-electron interaction by simple formulations regarding the quantity of interest.
 On one side, a δ-dirac interaction combined with a Hermite-Gaussian basis-set helped development of methods for correlation energies and properties related to the ground-state solution. On the other side, we access bounded excited-states using a one-dimensional two-electron Hooke’s atom.
