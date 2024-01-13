@@ -8,7 +8,7 @@ draft: false
 
 ### Arjan Berger (LCPQ, Toulouse)
 
-[The one-point model: solving equations in pointland]("/presentations/ABerger.pdf")
+[The one-point model: solving equations in pointland]("static/presentations/ABerger.pdf")
 
 In the one-point model we consider a zero-dimensional space. The advantage of this model is that the many-body equations simplify enormously and can be solved analytically. In particular, the one-body Greenʼs function is a solution of a set of functional integro-differential equations, which relate the one-particle Greenʼs function to its functional derivative with respect to an external potential [1]. In the one-point model, these equations become ordinary differential equations that are solvable with standard techniques.  This allows us to analyze several aspects of these equations as well as of standard methods for determining the one-body Greenʼs function, such as GW, that are important for real systems. For example, it allows us to investigate the problem of unphysical solutions of the many-body equations [2].
 
