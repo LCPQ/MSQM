@@ -63,7 +63,7 @@ In the first part of my talk, I will present a detailed analysis of the famous e
 
 ### Timothee Audinet (LCT, Paris)
 
-**One-dimensional model with delta-type interactions: Dirac's equation with QED interactions**
+<a href="/presentations/TAudinet.pdf">One-dimensional model with delta-type interactions: Dirac's equation with QED interactions</a>
 
 It is important to take into account the effects of special relativity in the quantum description of chemical systems with heavy elements. The relativistic effects account for gold’s color, mercury’s liquid state at room temperature and are responsible for the efficiency of lead-acid batteries in cars [1]. Relativistic electronic-structure computational methods have been developed in the no-pair approximation, and are now routinely applied on molecular systems. Hence, the next challenge is to go beyond the no-pair approximation by including the quantum-electrodynamics (QED) effects of virtual electron-positron pairs. Such description is needed to recover some properties, even in very simple systems, e.g. the Lamb shift in the Hydrogen atom. In this work we are interested in a one-dimensional model of relativistic hydrogen-like atom using delta-potential interactions. It is motivated by the non-relativistic version of this model which leads to the same ground-state energy and radial wave function as the three-dimensional one [2]. In this model we are able to make accurate QED calculations [3]. After calculating the spectrum of the 1D Dirac operator [4]
 $$
@@ -132,7 +132,7 @@ Despite our very good understanding of several models in one dimension involving
 
 ### Alexander Tichai (TU, Darmstadt)
 
-**Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed**
+<a href="/presentations/ATichai.pdf">Nuclear superfluidity: the Pairing Hamiltonian as a many-body testbed</a>
 
 Atomic nuclei away from shell closures are characterized by strong static correlations that are (partly) linked to the emergence of superfluidity responsible for characteristic patterns in the nuclear phenomenology, e.g. odd-even mass staggering along isotopic chains. While the onset of superfluidity is accompanied by a breakdown of symmetry-conserving Hartree-Fock theory, the corresponding pairing correlations can be efficiently grasped by spontaneously breaking (and restoring) particle-number symmetry.
 
@@ -165,7 +165,7 @@ to test quantum algorithms using qubits. A few examples of recent progress in qu
 
 ### Alfred Kirsch (CERMICS, Paris)
 
-**Some mathematical insights on DMFT on a Hubbard model**
+<a href="/presentations/AKirsch.pdf">Some mathematical insights on DMFT on a Hubbard model</a>
 
 In this talk, I will discuss recent work on the mathematical properties of the Dynamical Mean-Field Theory applied to the Hubbard model [2, 4, 1]. In spite of its general use in condensed matter physics, the mathematical framework of DMFT has not been explored thoroughly: to our knowledge, this issue has only been addressed in [3], where it is shown that the self-consistent map is well defined for a particular set of functions representing a finite bath. In this talk, after a brief reminder on the Hubbard model and the DMFT formalism, I will present joint work with S. Perrin-Roussel and E. Cances in which we start by extending this result to a larger class of functions that can model infinite bath. I will also detail results on a specific impurity solver, the Iterated Perturbation Theory (IPT). If time allows, I will then discuss numerical developments arising from these results (using TRIQS [5]) and the well-posedness of the DMFT equations in this frame.
 
@@ -179,7 +179,7 @@ In this talk, I will discuss recent work on the mathematical properties of the D
 
 ### Umberto Morellini (CEREMADE, Paris)
 
-**Relativistic electrons coupled with Newtonian nuclear dynamics**
+<a href="/presentations/UMorellini.pdf">Relativistic electrons coupled with Newtonian nuclear dynamics</a>
 
 In this talk, we consider a model consisting of differential equations coupling the time evolution of a finite number of relativistic electrons with the Newtonian dynamics of finitely many nuclei, where the former is described by the Bogoliubov-Dirac-Fock (BDF) equation of quantum electrodynamics (QED). The Cauchy problem for this model is addressed, proving a global well-posedness result. We believe that this system can be seen as a first step in the study of molecular dynamics phenomena, when both relativistic and quantum effects have to be taken into account [1].
 
@@ -222,7 +222,7 @@ We illustrate the applications of this model with our work on the density-based 
 
 ### Lucia Reining (LSI, Palaiseau)
 
-**Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory**
+<a href="/presentations/LReining.pdf">Zero, one, many: the Hubbard dimer with two electrons in many-body perturbation theory</a>
 
 Many-body perturbation theory is today part of the standard toolbox of first principles calculations. Most often, first-or at most second-order approximations are used. Still, calculations for real materials can be very involved. Moreover, numerous open questions remain, not least because for both total energies and spectra we do not have enough thorough benchmarks. This explains why, for example, after decades of GW calculations the best choice for the Green's function G and for the screened Coulomb interaction W to build the GW self-energy is still a matter of debate.
 
@@ -234,7 +234,7 @@ We will illustrate how the simple model allows us to benchmark, and also to unde
 
 ### David Gontier (CEREMADE, Paris) 
 
-**Phase transition in the Peierls / SSH model**
+<a href="/presentations/DGontier.pdf">Phase transition in the Peierls / SSH model</a>
 
 The Peierls/SSH model is a simple one-dimensional model used to describe molecular chains such as polyacetylene. In this model, we consider a distortion energy between the atoms, and an electronic quantum energy given by a tight-binding model. Peierls showed that it was energetically favorable for the chain to dimerize (hence the structure …=C-C=C-… of polyacetylene). In this talk, we will study the phase diagram of this model, when we add temperature. We show the existence of a critical temperature above which the chain no longer dimerizes. Work in collaboration with Adéchola Kouandé and Éric Séré.
 
@@ -266,7 +266,7 @@ In the first part of the talk we will consider a system of bosons with contact i
 
 ### Marie Labeye (ENS, Paris)
 
-**Time dependent models for strong field physics**
+<a href="/presentations/MLabeye.pdf">Time dependent models for strong field physics</a>
 
 In this presentation, I will present several simple systems that allow us to describe complex time-dependent processes. In particular I will show that low dimensional systems are powerful tools to model the strong-field driven dynamics of atoms and molecules. Indeed, these model systems allow to directly solve the Time-Dependent Schrödinger Equation and therefore accurately represent highly non-linear processes such as tunnel ionization or high-order harmonic generation.
 
