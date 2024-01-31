@@ -83,7 +83,7 @@ in first quantization, we develop an effective QED Hamiltonian in a fermionic Fo
 
 ### Cyril Martins (LCPQ, Toulouse)
 
-**An introduction to Dynamical Mean-Field Theory**
+<a href="/presentations/CMartins.pdf">An introduction to Dynamical Mean-Field Theory</a>
 
 The "famous" Hubbard model was conceived in the 1960s [1,2,3] to get
 insight into how the Coulomb interactions between conduction electrons
@@ -240,9 +240,11 @@ The Peierls/SSH model is a simple one-dimensional model used to describe molecul
 
 <img src="/img/DGontier.jpg" width="600">
 
-### Mauricio Rodríguez-Mayorga (Neel Institute, Grenoble)
+### Mauricio Rodríguez-Mayorga (Neel Institute, Grenoble) & Mi-Song Dupuy (LJLL, Paris)
 
-**Relativistic effects on the two-electron Harmonium atom**
+<a href="/presentations/MDupuy.pdf">Harmonium: a model to study approximations in TDDFT</a> (by Mi-Song Dupuy)
+
+**Relativistic effects on the two-electron Harmonium atom** (by Mauricio Rodríguez-Mayorga)
 
 The non-relativistic Harmonium atom is a model system where parabolic confinement ($1⁄2\omega^2 r^2$) replaces the Coulombic ($-Z/r$) electron-nucleus interaction [1-4]. Varying the confinement strength (ω) enhances the different types of electronic correlation effects. Large (small) ω values make the weak (strong) electronic correlation dominant [1,3]. Consequently, this model system has served as a tool in the development and benchmarking of methods [5,6]. Moreover, analytic solutions for the two-electron Harmonium atom can also be obtained for certain ω values [4], which provides us with wavefunctions for two electrons that are explored to better understand the repercussions of electronic correlation effects.
 In this work, we explore numerically the role of relativistic effects on the two-electron Harmonium. Our results indicate that only for the large $\omega$ values scalar relativistic effects are important and lead to a reduction of the total energy accompanied by changes in the electronic structure (e.g. a shrinking of the radial electronic density P(r)).
